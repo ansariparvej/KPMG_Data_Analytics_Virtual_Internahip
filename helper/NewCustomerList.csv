@@ -1,0 +1,1001 @@
+first_name,last_name,gender,age,DOB,address,postcode,country,state,job_title,job_industry_category,past_3_years_bike_related_purchases,property_valuation,wealth_segment,tenure,deceased_indicator,owns_car
+Chickie,Brister,0,60,1957-07-12,45 Shopko Center,4500,Australia,QLD,General Manager,Manufacturing,86,6,Mass Customer,14,0,1
+Morly,Genery,0,47,1970-03-22,14 Mccormick Park,2113,Australia,NSW,Structural Engineer,Property,69,11,Mass Customer,16,0,0
+Ardelis,Forrester,1,43,1974-08-28,5 Colorado Crossing,3505,Australia,VIC,Senior Cost Accountant,Financial Services,10,5,Affluent Customer,10,0,0
+Lucine,Stutt,1,38,1979-01-28,207 Annamark Plaza,4814,Australia,QLD,Account Representative III,Manufacturing,64,1,Affluent Customer,5,0,1
+Melinda,Hadlee,1,52,1965-09-21,115 Montana Place,2093,Australia,NSW,Financial Analyst,Financial Services,34,9,Affluent Customer,19,0,0
+Druci,Brandli,1,66,1951-04-29,89105 Pearson Terrace,4075,Australia,QLD,Assistant Media Planner,Entertainment,39,7,High Net Worth,22,0,1
+Rutledge,Hallt,0,41,1976-10-06,7 Nevada Crossing,2620,Australia,NSW,Compensation Analyst,Financial Services,23,7,Mass Customer,8,0,0
+Nancie,Vian,1,45,1972-12-27,85 Carioca Point,4814,Australia,QLD,Human Resources Assistant II,Retail,74,5,Mass Customer,10,0,1
+Duff,Karlowicz,0,45,1972-04-28,717 West Drive,2200,Australia,NSW,Speech Pathologist,Manufacturing,50,10,Mass Customer,5,0,1
+Barthel,Docket,0,32,1985-08-02,80 Scofield Junction,4151,Australia,QLD,Accounting Assistant IV,IT,72,5,Mass Customer,17,0,1
+Rockwell,Matson,0,22,1995-01-01,3682 Crowley Point,4573,Australia,QLD,Programmer Analyst I,Retail,94,6,High Net Worth,3,0,0
+Wheeler,Winward,0,18,1999-08-30,3 Golden Leaf Point,3216,Australia,VIC,Environmental Specialist,Manufacturing,48,8,Mass Customer,10,0,0
+Olag,,0,27,1990-05-13,0484 North Avenue,2032,Australia,NSW,Human Resources Manager,Telecommunications,60,11,Mass Customer,9,0,0
+Melba,Spellacy,1,41,1976-12-09,0591 Anzinger Circle,2232,Australia,NSW,VP Marketing,Health,38,10,Mass Customer,4,0,0
+Mandie,Feares,1,53,1964-04-19,39 Kedzie Pass,4053,Australia,QLD,Clinical Specialist,Health,32,8,Mass Customer,10,0,0
+Dukie,Swire,0,63,1954-03-31,64 Granby Parkway,2500,Australia,NSW,,Manufacturing,88,8,Affluent Customer,5,0,1
+Marcelia,Monkleigh,1,24,1993-08-22,610 Swallow Street,4051,Australia,QLD,Associate Professor,Manufacturing,61,6,Mass Customer,4,0,1
+Winnifred,Beswetherick,1,41,1976-06-08,61 4th Street,3040,Australia,VIC,Actuary,Financial Services,83,10,Mass Customer,14,0,0
+Odilia,Quick,1,79,1938-11-09,1550 Russell Way,2222,Australia,NSW,General Manager,Manufacturing,65,11,Affluent Customer,11,0,1
+Karly,Willavize,1,63,1954-08-12,193 North Point,2190,Australia,NSW,Internal Auditor,Manufacturing,2,10,High Net Worth,12,0,0
+Teddie,Burchill,0,49,1968-12-21,321 Raven Plaza,2161,Australia,NSW,Programmer I,Manufacturing,11,9,Mass Customer,13,0,1
+Gaston,Dallaghan,0,24,1993-09-29,656 Fuller Street,2783,Australia,NSW,Financial Analyst,Financial Services,44,7,Mass Customer,8,0,1
+Otis,Ottey,0,19,1998-02-05,1562 Merchant Street,4744,Australia,QLD,Quality Engineer,,26,4,Mass Customer,3,0,0
+Tabbatha,Averill,1,40,1977-12-17,663 8th Parkway,2257,Australia,NSW,Quality Control Specialist,,5,8,Affluent Customer,13,0,1
+Brena,Schnitter,1,35,1982-10-11,67 Shelley Street,4703,Australia,QLD,Account Executive,Manufacturing,78,5,Mass Customer,4,0,0
+Rourke,Gillbard,0,72,1945-08-03,75 Cordelia Trail,4817,Australia,QLD,,Property,11,4,Mass Customer,17,0,0
+Dyane,Burwell,1,65,1952-06-27,51 Hooker Court,2640,Australia,NSW,Engineer II,Retail,19,2,Mass Customer,7,0,1
+Claudine,Barstowk,1,51,1966-07-20,1859 Forest Circle,4000,Australia,QLD,Nurse,Property,71,11,High Net Worth,5,0,1
+Blinnie,Roze,1,57,1960-12-10,44557 Rutledge Court,4171,Australia,QLD,Librarian,Entertainment,84,7,High Net Worth,11,0,0
+Rhona,De Freyne,1,57,1960-11-22,11184 East Drive,3056,Australia,VIC,,Health,45,10,High Net Worth,8,0,0
+Sharron,Claibourn,1,37,1980-01-26,555 Hermina Avenue,2280,Australia,NSW,,Financial Services,62,8,High Net Worth,17,0,1
+Brien,Heaton,0,66,1951-11-28,8 Novick Trail,2470,Australia,NSW,Clinical Specialist,Health,70,2,Mass Customer,12,0,1
+Sybilla,MacCart,1,30,1987-01-15,74 Welch Pass,2620,Australia,NSW,Paralegal,Financial Services,88,7,Mass Customer,7,0,1
+Mikel,McNess,0,36,1981-09-22,3 Pleasure Drive,4122,Australia,QLD,Nurse,,71,9,Mass Customer,9,0,0
+Maisie,Maddox,1,40,1977-05-09,8 Dennis Point,3226,Australia,VIC,Assistant Manager,Financial Services,27,9,Affluent Customer,20,0,0
+Arleen,Casbolt,1,42,1975-05-10,41042 Lotheville Crossing,4817,Australia,QLD,Senior Quality Engineer,Financial Services,48,1,Affluent Customer,13,0,1
+Farlie,Petford,0,49,1968-03-25,2330 Butternut Trail,2017,Australia,NSW,Recruiting Manager,,76,10,High Net Worth,13,0,0
+Mitchell,MacCague,0,38,1979-04-11,240 Acker Avenue,3190,Australia,VIC,,Manufacturing,58,8,Mass Customer,15,0,0
+Garik,Whitwell,0,62,1955-06-13,04 Dexter Way,3280,Australia,VIC,,Property,44,2,Mass Customer,13,0,1
+Antonin,Britt,0,24,1993-08-28,011 Northland Trail,2160,Australia,NSW,,Manufacturing,64,9,Affluent Customer,8,0,1
+Vinny,Incogna,1,64,1953-02-13,8 Grayhawk Circle,2756,Australia,NSW,,Health,73,8,High Net Worth,10,0,0
+Colene,Fishleigh,1,32,1985-03-14,44 Darwin Lane,3149,Australia,VIC,Design Engineer,Financial Services,24,10,Mass Customer,3,0,0
+Neile,Argent,1,71,1946-10-25,2548 Arrowood Pass,2024,Australia,NSW,,Retail,79,10,Mass Customer,8,0,0
+Corinna,Suggey,1,51,1966-09-18,938 Ilene Road,2761,Australia,NSW,Design Engineer,,52,8,Affluent Customer,9,0,0
+Brooke,Arling,0,56,1961-12-05,6 Melby Center,3027,Australia,VIC,,,76,5,High Net Worth,6,0,0
+Gipsy,Ewestace,1,61,1956-08-30,08708 Moulton Park,2034,Australia,NSW,Business Systems Development Analyst,Retail,29,12,High Net Worth,5,0,1
+Sheena,Kybbye,1,61,1956-07-16,306 Clemons Junction,4852,Australia,QLD,Paralegal,Financial Services,14,1,Affluent Customer,19,0,1
+Jobina,Gobourn,1,23,1994-12-04,18 Grim Road,4305,Australia,QLD,VP Quality Control,,85,4,High Net Worth,14,0,1
+Gale,Disbrow,1,40,1977-05-14,169 Bashford Drive,3741,Australia,VIC,Cost Accountant,Financial Services,59,7,Mass Customer,17,0,1
+Thaxter,Kingsbury,0,67,1950-05-03,3 Vermont Lane,2067,Australia,NSW,Product Engineer,Argiculture,12,12,Mass Customer,20,0,0
+Heinrick,Shilstone,0,39,1978-02-11,998 Gale Park,3174,Australia,VIC,,Manufacturing,60,8,Affluent Customer,10,0,0
+Taylor,Steuhlmeyer,0,18,1999-03-22,64 Mcguire Trail,4017,Australia,QLD,Paralegal,Financial Services,62,8,Affluent Customer,5,0,1
+Griswold,Kelsall,0,24,1993-12-19,74127 Blaine Point,3805,Australia,VIC,Social Worker,Health,55,7,High Net Worth,11,0,1
+Odessa,Mc Andrew,1,36,1981-12-01,31756 Meadow Valley Lane,2232,Australia,NSW,,Property,97,10,Mass Customer,8,0,0
+Lavena,Seekings,1,22,1995-03-25,293 Mayfield Street,3166,Australia,VIC,Payment Adjustment Coordinator,Retail,87,10,Mass Customer,16,0,0
+Martelle,Tuppeny,1,36,1981-02-03,261 Grayhawk Way,2226,Australia,NSW,Marketing Assistant,Manufacturing,52,10,Mass Customer,9,0,0
+Briant,Ladley,0,38,1979-12-17,2 Schlimgen Terrace,2750,Australia,NSW,Recruiter,Argiculture,75,8,Mass Customer,12,0,0
+Marylou,Kirkup,1,45,1972-10-31,76733 Sunbrook Terrace,3196,Australia,VIC,VP Product Management,,51,9,Mass Customer,14,0,0
+Whittaker,,0,51,1966-07-29,683 Florence Way,3156,Australia,VIC,Media Manager III,,64,5,Mass Customer,8,0,1
+Normy,Goodinge,2,45,,7232 Fulton Parkway,3810,Australia,VIC,Associate Professor,IT,5,5,Mass Customer,4,0,0
+Lorrie,Antonelli,0,34,1983-02-11,06936 Bobwhite Circle,2257,Australia,NSW,Cost Accountant,Financial Services,47,7,High Net Worth,17,0,1
+Jedediah,Kedie,0,46,1971-12-29,283 Acker Drive,2763,Australia,NSW,Developer I,Argiculture,31,9,Mass Customer,9,0,1
+Kaine,Smallcombe,0,75,1942-02-06,9 Mosinee Parkway,2072,Australia,NSW,Senior Financial Analyst,Financial Services,59,10,High Net Worth,11,0,0
+Loise,Iltchev,1,50,1967-03-18,45 Becker Place,4504,Australia,QLD,Electrical Engineer,Manufacturing,70,6,High Net Worth,17,0,1
+Cristen,Maroney,1,18,1999-11-21,27 Karstens Crossing,4214,Australia,QLD,Accountant IV,IT,22,7,High Net Worth,7,0,1
+Dorothy,Barnardo,1,34,1983-02-01,9630 Cottonwood Avenue,2168,Australia,NSW,Human Resources Manager,Retail,58,8,High Net Worth,12,0,0
+Rosmunda,Duxbarry,1,21,1996-07-20,989 Graedel Terrace,4208,Australia,QLD,Executive Secretary,Property,69,11,Affluent Customer,5,0,1
+Rozamond,Riha,1,33,1984-10-07,76 Bartelt Center,4078,Australia,QLD,Account Representative I,Manufacturing,54,7,Affluent Customer,16,0,1
+Gunner,Petti,0,18,1999-06-08,29778 Mendota Drive,4036,Australia,QLD,Executive Secretary,Financial Services,62,5,High Net Worth,3,0,1
+Vivienne,Crayden,1,29,1988-09-18,69 Algoma Center,4173,Australia,QLD,Associate Professor,,82,7,High Net Worth,6,0,1
+Sherilyn,Canero,1,21,1996-08-03,8288 Lyons Way,2484,Australia,NSW,Dental Hygienist,Health,11,7,High Net Worth,13,0,1
+Bessie,Roscow,1,23,1994-08-04,4185 Florence Trail,2121,Australia,NSW,GIS Technical Architect,Financial Services,78,10,Mass Customer,9,0,0
+Kevina,Ferandez,1,18,1999-09-21,9608 Heffernan Drive,4068,Australia,QLD,Assistant Professor,Financial Services,73,9,High Net Worth,15,0,0
+Yancy,Clementet,0,49,1968-02-16,9 Union Center,2147,Australia,NSW,Mechanical Systems Engineer,,5,9,High Net Worth,15,0,0
+Mabelle,Wellbelove,1,59,1958-04-21,800 Emmet Park,2219,Australia,NSW,,Financial Services,76,9,Affluent Customer,19,0,1
+Hasheem,Groucock,0,43,1974-09-17,12351 Spenser Pass,2034,Australia,NSW,Budget/Accounting Analyst IV,Manufacturing,98,12,High Net Worth,10,0,1
+Tobias,Woodhams,0,56,1961-04-15,4 Valley Edge Plaza,2759,Australia,NSW,Research Nurse,Health,0,9,Mass Customer,17,0,0
+Glennis,Flintoff,1,61,1956-10-22,1601 Rutledge Lane,3030,Australia,VIC,Speech Pathologist,Health,36,7,Affluent Customer,13,0,1
+Chanda,Mensler,1,45,1972-01-14,0 Mockingbird Plaza,2212,Australia,NSW,Computer Systems Analyst IV,Manufacturing,15,10,Mass Customer,13,0,1
+Katheryn,Kinner,1,44,1973-11-28,1665 Kenwood Center,2518,Australia,NSW,Analyst Programmer,Entertainment,15,6,High Net Worth,6,0,0
+Sumner,Carrivick,0,22,1995-04-09,5 4th Center,2097,Australia,NSW,Desktop Support Technician,Manufacturing,53,12,Mass Customer,15,0,0
+Valerie,Pickover,1,52,1965-09-08,92214 Spenser Road,2756,Australia,NSW,Editor,Financial Services,34,8,Mass Customer,9,0,0
+Esther,Rooson,1,36,1981-02-22,5186 Main Trail,2046,Australia,NSW,,Financial Services,14,9,Mass Customer,5,0,0
+Gardie,Crellim,0,42,1975-09-12,564 Forest Dale Avenue,3161,Australia,VIC,Biostatistician IV,Manufacturing,58,12,High Net Worth,8,0,0
+Sean,O'Loughlin,0,56,1961-03-22,83 Old Gate Point,2576,Australia,NSW,Database Administrator III,Manufacturing,48,10,High Net Worth,16,0,1
+Pietra,Buckleigh,1,68,1949-04-29,387 Dixon Alley,2024,Australia,NSW,Engineer III,,9,10,High Net Worth,13,0,0
+Marysa,Rouchy,1,18,1999-02-15,411 Twin Pines Way,2026,Australia,NSW,Assistant Media Planner,Entertainment,8,9,Affluent Customer,5,0,0
+Kahaleel,,0,75,1942-11-01,12 Arapahoe Park,2035,Australia,NSW,GIS Technical Architect,,5,12,High Net Worth,13,0,0
+Ossie,Midden,0,67,1950-02-10,4915 Debra Center,2479,Australia,NSW,Physical Therapy Assistant,Manufacturing,49,9,Mass Customer,14,0,1
+Sid,Carlone,0,46,1971-08-18,76 Sunnyside Avenue,4670,Australia,QLD,Structural Engineer,Health,24,2,Affluent Customer,16,0,0
+Ludovico,Juster,0,25,1992-04-19,1 Talisman Avenue,2125,Australia,NSW,Environmental Specialist,,93,10,Affluent Customer,15,0,0
+Patricia,Everix,1,39,1978-02-19,91164 Washington Terrace,2263,Australia,NSW,Director of Sales,Health,34,7,Mass Customer,19,0,0
+Andromache,Bonafacino,1,40,1977-09-01,74 Carpenter Street,2015,Australia,NSW,,Retail,84,9,Mass Customer,11,0,0
+Levy,Abramamov,0,65,1952-09-21,6776 Anderson Center,4037,Australia,QLD,Teacher,,94,8,Affluent Customer,14,0,1
+Nobe,McAughtry,0,39,1978-12-14,1 Orin Hill,4510,Australia,QLD,,,25,5,Mass Customer,12,0,0
+Jehu,Prestedge,0,18,1999-10-20,88 Annamark Avenue,2138,Australia,NSW,,Manufacturing,91,12,High Net Worth,8,0,1
+Symon,Mawne,0,74,1943-02-08,37439 High Crossing Circle,3350,Australia,VIC,Human Resources Assistant IV,Property,18,4,Mass Customer,15,0,1
+Karlik,Penchen,0,23,1994-10-31,5 Nevada Point,4017,Australia,QLD,Nurse Practicioner,Retail,60,6,Mass Customer,11,0,0
+Bengt,Bilson,0,45,1972-11-02,67 Grayhawk Circle,2232,Australia,NSW,Structural Engineer,Manufacturing,26,10,High Net Worth,11,0,0
+Evangelin,Boc,1,17,2000-05-09,0 Meadow Ridge Street,3173,Australia,VIC,Structural Analysis Engineer,Manufacturing,30,8,High Net Worth,14,0,1
+Hanny,Treven,1,26,1991-01-22,5 Quincy Street,4118,Australia,QLD,Associate Professor,Retail,84,4,Mass Customer,3,0,0
+Gina,Mallon,1,23,1994-02-11,13025 Johnson Plaza,4670,Australia,QLD,Dental Hygienist,Health,56,2,Mass Customer,12,0,0
+Reynold,Elman,0,77,1940-01-18,966 Sunnyside Center,2390,Australia,NSW,Marketing Manager,Manufacturing,19,2,Mass Customer,9,0,0
+Flossy,Concannon,1,37,1980-10-20,802 Mallory Park,3919,Australia,VIC,Staff Accountant IV,Financial Services,64,2,Affluent Customer,8,0,0
+Cristen,Wiltshire,1,56,1961-10-20,93 Judy Drive,3047,Australia,VIC,VP Sales,Financial Services,59,6,High Net Worth,15,0,1
+Griffith,Escot,0,71,1946-10-23,94 Manitowish Court,4116,Australia,QLD,Accountant III,IT,50,3,Mass Customer,16,0,1
+Jamie,Jiruca,1,54,1963-06-16,5013 Erie Crossing,2230,Australia,NSW,Recruiting Manager,Argiculture,21,9,Mass Customer,18,0,0
+Lyon,Brittan,0,45,1972-04-23,540 Sachs Road,3153,Australia,VIC,Sales Representative,Retail,14,8,High Net Worth,19,0,0
+Aridatha,Sephton,1,56,1961-10-22,422 Forster Circle,2340,Australia,NSW,Human Resources Assistant II,,95,1,Mass Customer,5,0,0
+Michal,Bryan,1,48,1969-11-09,4275 Bluestem Pass,4000,Australia,QLD,,Manufacturing,1,8,Mass Customer,16,0,1
+Franciska,Stigell,1,49,1968-11-15,6 Anderson Junction,3802,Australia,VIC,Food Chemist,Health,95,7,Mass Customer,7,0,1
+Jordan,Clampe,0,78,1939-12-09,276 Westend Road,4207,Australia,QLD,Staff Scientist,Financial Services,37,5,Mass Customer,11,0,1
+David,Napoleon,0,56,1961-11-05,69 Garrison Point,2223,Australia,NSW,Structural Engineer,,72,11,High Net Worth,14,0,0
+Meriel,Tapp,1,22,1995-08-13,65 Milwaukee Hill,3280,Australia,VIC,VP Sales,IT,0,2,Mass Customer,5,0,0
+Dolley,Starmont,1,40,1977-11-08,4252 Dovetail Pass,4129,Australia,QLD,Geologist IV,Manufacturing,53,6,Affluent Customer,18,0,0
+Frederik,Milan,0,20,1997-11-13,56 Riverside Street,2546,Australia,NSW,,Health,45,5,Mass Customer,5,0,0
+Rollo,Louedey,0,71,1946-07-09,7 Cascade Park,2089,Australia,NSW,Information Systems Manager,Telecommunications,64,9,Affluent Customer,17,0,1
+Jerrine,Cosbey,1,39,1978-01-11,29307 Russell Avenue,3094,Australia,VIC,Junior Executive,Financial Services,21,9,High Net Worth,6,0,1
+Roddy,Rubinshtein,0,30,1987-10-08,3 Mcguire Crossing,4510,Australia,QLD,Nurse Practicioner,Retail,37,7,Mass Customer,4,0,1
+Viki,Coutts,1,65,1952-12-14,6 Golf View Alley,2287,Australia,NSW,Automation Specialist II,Property,2,4,Mass Customer,7,0,1
+Ashby,Bispham,0,36,1981-10-29,83716 Russell Lane,2145,Australia,NSW,Software Consultant,Retail,71,8,Affluent Customer,4,0,0
+Alexander,Broadbent,0,20,1997-05-28,265 Stephen Trail,2209,Australia,NSW,Desktop Support Technician,,57,10,Mass Customer,9,0,0
+Teddy,Lagadu,1,48,1969-07-20,2 Charing Cross Trail,2759,Australia,NSW,Design Engineer,,86,8,High Net Worth,6,0,0
+Peria,Rantoull,1,42,1975-03-13,8350 Moulton Terrace,4500,Australia,QLD,Financial Analyst,Financial Services,3,4,Mass Customer,4,0,0
+Ludvig,Andren,0,76,1941-02-22,578 Waywood Circle,4306,Australia,QLD,Media Manager III,,44,5,High Net Worth,15,0,1
+Elsworth,Abbitt,0,61,1956-02-08,9722 Northport Way,3500,Australia,VIC,,Health,71,3,Mass Customer,6,0,1
+Rebeca,Aggas,1,64,1953-02-27,7026 Katie Lane,3818,Australia,VIC,Social Worker,Health,66,1,Affluent Customer,21,0,0
+Ricki,Dobrowski,0,42,1975-03-10,8 Eggendart Pass,2835,Australia,NSW,Civil Engineer,Manufacturing,13,1,Mass Customer,9,0,1
+Georgetta,Lovett,1,77,1940-02-02,1 Bluejay Place,4405,Australia,QLD,Editor,Retail,42,1,Mass Customer,12,0,0
+Bambi,Cogger,1,27,1990-07-12,28970 Monument Lane,2560,Australia,NSW,Design Engineer,Retail,51,7,Affluent Customer,5,0,1
+Aurie,Rhead,1,55,1962-07-28,235 Mendota Court,2650,Australia,NSW,Geological Engineer,Manufacturing,78,2,Affluent Customer,5,0,1
+Farris,Skettles,0,52,1965-07-03,49309 Redwing Lane,3240,Australia,VIC,Payment Adjustment Coordinator,,38,7,Mass Customer,13,0,1
+Sharline,Abyss,1,57,1960-03-18,367 Bay Point,4011,Australia,QLD,,,11,4,Mass Customer,15,0,1
+Nowell,Preddy,0,32,1985-07-23,932 Glendale Avenue,2173,Australia,NSW,,Manufacturing,29,9,Mass Customer,9,0,0
+Lacy,Drance,1,39,1978-02-05,492 Waywood Lane,2750,Australia,NSW,Graphic Designer,Manufacturing,27,8,Affluent Customer,14,0,1
+Padraig,Snel,0,47,1970-11-08,12683 Mifflin Point,2114,Australia,NSW,Staff Accountant II,,89,7,Mass Customer,19,0,0
+Malorie,Votier,1,27,1990-05-29,6160 Weeping Birch Hill,4509,Australia,QLD,Graphic Designer,Manufacturing,90,5,Affluent Customer,4,0,0
+Shepperd,Ricards,0,50,1967-09-27,7 Oakridge Lane,2284,Australia,NSW,Social Worker,Health,28,4,Mass Customer,16,0,1
+Daryl,Pauncefort,1,38,1979-06-18,0 Dexter Parkway,2380,Australia,NSW,Community Outreach Specialist,Financial Services,12,3,Mass Customer,12,0,1
+Norina,Blakeway,1,37,1980-02-11,75813 Lawn Lane,3081,Australia,VIC,Programmer Analyst II,Property,60,8,Mass Customer,3,0,1
+My,Chaston,0,51,1966-07-16,74613 Northport Park,3765,Australia,VIC,Desktop Support Technician,Manufacturing,92,9,Affluent Customer,16,0,1
+Isak,Bergstram,0,16,2001-03-08,68 Karstens Pass,2176,Australia,NSW,Pharmacist,Health,14,9,Affluent Customer,15,0,1
+Grannie,Cracker,0,68,1949-03-06,87254 Hermina Pass,4217,Australia,QLD,VP Marketing,Retail,28,8,Mass Customer,20,0,1
+Welby,Lourenco,0,42,1975-12-27,801 Atwood Alley,2138,Australia,NSW,Senior Cost Accountant,Financial Services,6,9,High Net Worth,17,0,1
+Glenn,Casbourne,1,36,1981-08-08,2 Morrow Alley,4207,Australia,QLD,Senior Editor,Manufacturing,4,1,Mass Customer,6,0,0
+Nadiya,Balasini,1,67,1950-11-05,92934 Mallory Trail,2164,Australia,NSW,Sales Associate,Financial Services,40,9,Mass Customer,15,0,0
+Tyne,Coate,1,52,1965-07-15,90820 Thackeray Street,2218,Australia,NSW,Developer II,Manufacturing,82,8,Mass Customer,17,0,0
+Christie,Anders,0,48,1969-10-02,48 Ludington Plaza,2153,Australia,NSW,VP Marketing,Retail,38,10,Mass Customer,16,0,0
+Agnella,Capener,1,48,1969-05-21,49185 Derek Circle,3977,Australia,VIC,Teacher,Health,58,6,High Net Worth,19,0,0
+Bernardine,Delmonti,1,46,1971-03-31,0721 Meadow Ridge Pass,2540,Australia,NSW,,Property,39,8,Mass Customer,17,0,0
+Daisy,Spowart,1,50,1967-12-18,115 Westridge Road,4570,Australia,QLD,Staff Accountant I,Health,60,3,Affluent Customer,4,0,1
+Denys,Minshall,1,56,1961-12-26,7 Myrtle Lane,2324,Australia,NSW,Environmental Tech,Manufacturing,30,8,Affluent Customer,14,0,1
+Archibald,Blessed,0,48,1969-02-10,7795 Memorial Drive,2016,Australia,NSW,VP Sales,Financial Services,61,11,Mass Customer,18,0,1
+Feodor,Englishby,0,56,1961-08-14,24695 Boyd Road,3201,Australia,VIC,Account Coordinator,Health,54,5,Mass Customer,11,0,0
+Skippie,Yearsley,0,61,1956-09-04,95306 John Wall Avenue,4350,Australia,QLD,Compensation Analyst,Financial Services,6,5,Mass Customer,9,0,0
+Bill,,1,54,1963-04-24,6704 Pine View Lane,2170,Australia,NSW,Human Resources Assistant II,Property,74,9,Mass Customer,19,0,1
+Tessa,Friese,1,41,1976-10-24,98158 Alpine Point,4212,Australia,QLD,Health Coach II,Financial Services,89,9,Mass Customer,21,0,0
+Roseanne,Caruth,1,60,1957-05-25,33652 Lyons Alley,2763,Australia,NSW,Programmer Analyst III,Health,16,9,Mass Customer,7,0,0
+Tedra,Goodbanne,1,39,1978-01-15,8 Debs Road,3934,Australia,VIC,Senior Quality Engineer,,4,9,Mass Customer,6,0,1
+Roberto,Harme,0,66,1951-06-11,101 Starling Pass,2564,Australia,NSW,Environmental Tech,,27,9,High Net Worth,10,0,0
+Nichole,Leisman,0,31,1986-08-07,35151 Bunker Hill Crossing,2068,Australia,NSW,Geologist III,Property,37,12,Affluent Customer,4,0,0
+Amil,Ennor,1,22,1995-08-04,2093 Amoth Pass,3109,Australia,VIC,Health Coach II,Health,23,11,Mass Customer,10,0,1
+Shawna,Hinrichsen,1,48,1969-08-27,57343 Eagan Avenue,2326,Australia,NSW,Assistant Professor,Manufacturing,60,2,Affluent Customer,9,0,1
+Fonsie,Levane,0,66,1951-07-10,83 Armistice Terrace,4011,Australia,QLD,Account Representative III,,96,3,High Net Worth,19,0,1
+Emilie,Brody,1,38,1979-05-22,5388 Burrows Alley,2073,Australia,NSW,Director of Sales,,3,11,Mass Customer,3,0,1
+Robert,Corkill,0,41,1976-03-12,5612 Toban Point,2227,Australia,NSW,Clinical Specialist,Health,55,10,Mass Customer,4,0,0
+Elvira,Kurten,1,44,1973-03-18,65 Ridge Oak Court,2471,Australia,NSW,Assistant Professor,Financial Services,65,3,High Net Worth,12,0,0
+Juliana,Mitchenson,1,28,1989-01-05,74 Russell Terrace,4350,Australia,QLD,Environmental Tech,Manufacturing,55,4,Mass Customer,8,0,1
+Regine,Bownes,1,65,1952-07-01,255 Loeprich Lane,3752,Australia,VIC,Senior Developer,Retail,99,9,Affluent Customer,15,0,0
+Abner,Fraschetti,0,31,1986-01-23,67 Northport Avenue,3805,Australia,VIC,Staff Scientist,Argiculture,33,7,Affluent Customer,13,0,0
+Alvira,Coulman,1,62,1955-06-05,823 Wayridge Trail,2205,Australia,NSW,Account Representative II,,42,9,Affluent Customer,14,0,0
+Sawyer,Sponton,0,61,1956-02-22,5 Golf Terrace,2126,Australia,NSW,Help Desk Technician,Property,36,11,Mass Customer,10,0,1
+Feodor,Vickers,0,28,1989-11-18,40809 Truax Way,2209,Australia,NSW,VP Quality Control,Financial Services,60,6,Mass Customer,4,0,1
+Paten,Cayet,0,22,1995-02-19,1398 Burning Wood Way,3850,Australia,VIC,Assistant Manager,Manufacturing,56,1,Affluent Customer,16,0,1
+Loria,Tappington,1,62,1955-09-06,3920 Swallow Junction,3038,Australia,VIC,Research Assistant IV,Property,72,8,Mass Customer,5,0,0
+Tanya,Kiefer,1,25,1992-07-05,4 Warner Park,2146,Australia,NSW,Speech Pathologist,Telecommunications,54,9,High Net Worth,7,0,0
+Devonne,Alderwick,1,78,1939-01-29,534 Lien Lane,3122,Australia,VIC,Research Associate,,79,7,High Net Worth,9,0,1
+Omero,McDonand,0,65,1952-04-01,48 Shoshone Park,2066,Australia,NSW,Software Consultant,Manufacturing,51,9,Mass Customer,16,0,0
+Iain,Haversham,0,67,1950-12-26,170 Briar Crest Place,2120,Australia,NSW,Sales Representative,Retail,92,10,Mass Customer,13,0,1
+Keriann,Newham,1,42,1975-03-26,0193 Northland Street,4179,Australia,QLD,Assistant Manager,Financial Services,71,9,Mass Customer,5,0,0
+Conroy,Rappaport,0,52,1965-01-08,5219 Pearson Drive,2148,Australia,NSW,Assistant Manager,Health,39,9,High Net Worth,9,0,0
+Dorian,Rustman,0,43,1974-12-09,6156 Summit Center,4352,Australia,QLD,Junior Executive,Manufacturing,78,7,Mass Customer,18,0,0
+Quillan,Guinane,0,71,1946-03-24,803 Badeau Point,2177,Australia,NSW,Community Outreach Specialist,,36,8,High Net Worth,21,0,1
+Harlin,Mazin,0,43,1974-03-25,735 Westridge Road,2454,Australia,NSW,Computer Systems Analyst I,Manufacturing,34,7,Mass Customer,13,0,1
+Eustacia,Dornan,1,32,1985-09-02,1190 Hanson Street,3806,Australia,VIC,Account Representative IV,Property,68,9,Mass Customer,5,0,0
+Maury,Galego,0,25,1992-07-27,370 Division Junction,3032,Australia,VIC,Social Worker,Health,65,10,High Net Worth,3,0,1
+Reggie,Kernar,1,46,1971-11-28,90 Northport Hill,2228,Australia,NSW,Senior Editor,Financial Services,26,10,High Net Worth,17,0,0
+Brigitte,Whellams,1,44,1973-05-09,77785 Veith Lane,2766,Australia,NSW,Payment Adjustment Coordinator,,67,8,Mass Customer,17,0,1
+Kinna,Kollasch,1,31,1986-11-09,232 Knutson Park,4060,Australia,QLD,Safety Technician I,Property,7,10,High Net Worth,9,0,0
+Maurizio,Comi,0,21,1996-05-30,25805 Eagan Place,2766,Australia,NSW,VP Product Management,IT,74,9,Affluent Customer,10,0,0
+Elbertina,Fendley,1,25,1992-03-27,743 Debra Court,2117,Australia,NSW,Physical Therapy Assistant,Property,32,11,Affluent Customer,8,0,0
+Franklin,Wohler,0,79,1938-10-16,6966 Delladonna Street,2250,Australia,NSW,Clinical Specialist,Health,55,8,Mass Customer,7,0,1
+Allyson,Petchell,1,47,1970-03-19,98221 Pennsylvania Place,2170,Australia,NSW,Human Resources Manager,Telecommunications,16,8,High Net Worth,10,0,0
+Ermentrude,Heindle,1,48,1969-08-02,307 Knutson Center,2226,Australia,NSW,GIS Technical Architect,Argiculture,47,10,Mass Customer,7,0,0
+Alanna,Lerway,1,73,1944-01-05,593 Alpine Drive,3195,Australia,VIC,Dental Hygienist,Health,26,12,Mass Customer,11,0,1
+Vincent,Jopke,0,45,1972-03-10,45788 Stang Plaza,3687,Australia,VIC,Analog Circuit Design manager,Property,6,3,Affluent Customer,16,0,0
+Mandie,Jeffryes,1,36,1981-02-16,96515 Di Loreto Pass,4109,Australia,QLD,Business Systems Development Analyst,,60,9,High Net Worth,7,0,0
+Collete,Dory,1,27,1990-01-09,8625 Dakota Plaza,2210,Australia,NSW,Information Systems Manager,,66,9,High Net Worth,2,0,0
+Leonid,Dorricott,0,24,1993-11-18,02 Hoffman Road,2448,Australia,NSW,Environmental Tech,,44,3,Affluent Customer,3,0,0
+Charlena,Berney,1,51,1966-01-02,496 Logan Center,4207,Australia,QLD,Geological Engineer,Manufacturing,55,4,High Net Worth,12,0,1
+Alfonso,Massel,0,77,1940-12-05,6065 Talisman Crossing,3977,Australia,VIC,,,70,7,Mass Customer,13,0,1
+Engracia,Dobbs,1,58,1959-04-19,72 Eliot Place,2250,Australia,NSW,,Health,84,8,Mass Customer,15,0,0
+Glyn,,0,72,1945-02-13,67 Bluejay Plaza,2300,Australia,NSW,General Manager,Manufacturing,47,9,Affluent Customer,21,0,1
+Rosemonde,Cartwight,1,65,1952-10-20,518 Paget Hill,4605,Australia,QLD,Analyst Programmer,Retail,44,1,Mass Customer,7,0,1
+Alano,Satchel,0,19,1998-11-26,87107 Shelley Crossing,2429,Australia,NSW,Recruiting Manager,,2,7,Mass Customer,2,0,0
+Corrine,Baribal,1,69,1948-10-12,3 Mallory Circle,2170,Australia,NSW,Senior Sales Associate,,19,8,Affluent Customer,12,0,1
+Benoit,Harniman,0,41,1976-08-27,1582 Bashford Drive,4018,Australia,QLD,Research Assistant II,Telecommunications,31,7,Affluent Customer,9,0,0
+Jeanne,Darte,1,62,1955-08-18,3 Homewood Park,2756,Australia,NSW,,,70,7,Mass Customer,11,0,1
+Jenelle,Fearnill,1,59,1958-01-03,06 Old Gate Park,2144,Australia,NSW,Social Worker,Health,12,9,High Net Worth,19,0,0
+Tannie,Gambrell,0,50,1967-05-25,49 Surrey Point,4710,Australia,QLD,Financial Analyst,Financial Services,92,4,Affluent Customer,4,0,0
+Mick,Macewan,0,50,1967-12-12,59254 Northland Alley,2032,Australia,NSW,Senior Cost Accountant,Financial Services,32,10,Mass Customer,16,0,0
+Abbie,Oldman,0,34,1983-11-26,4 North Drive,2168,Australia,NSW,,Health,82,8,High Net Worth,5,0,1
+Tabbie,Curner,0,20,1997-03-13,89 Parkside Street,3021,Australia,VIC,Chief Design Engineer,Retail,12,6,Mass Customer,6,0,0
+Shane,Killen,0,61,1956-10-16,7 Hazelcrest Place,2165,Australia,NSW,Account Executive,Entertainment,28,8,High Net Worth,10,0,0
+Roberta,Goodale,1,70,1947-02-28,013 David Junction,4211,Australia,QLD,Information Systems Manager,Property,9,7,Mass Customer,22,0,1
+Kippy,Barabisch,0,17,2000-04-07,840 Graceland Street,2125,Australia,NSW,Legal Assistant,Manufacturing,11,11,Mass Customer,4,0,0
+Rosalinde,Cubuzzi,1,20,1997-09-04,6 Lotheville Trail,2444,Australia,NSW,Business Systems Development Analyst,,50,7,Mass Customer,5,0,0
+Cami,Barnbrook,1,54,1963-01-01,890 Truax Lane,4285,Australia,QLD,Occupational Therapist,Health,8,2,Affluent Customer,18,0,1
+Dorian,Stollen,0,37,1980-02-16,72922 Cambridge Terrace,2026,Australia,NSW,Statistician I,Financial Services,78,11,Mass Customer,18,0,1
+Hunfredo,Hayball,0,23,1994-04-15,60461 Esch Avenue,2227,Australia,NSW,,IT,7,8,Affluent Customer,3,0,0
+Giorgi,O'Shirine,0,36,1981-06-20,6 Novick Alley,3934,Australia,VIC,Payment Adjustment Coordinator,Retail,68,8,Mass Customer,15,0,1
+Kort,Disley,0,38,1979-02-05,76 Donald Trail,2160,Australia,NSW,Technical Writer,Health,66,9,Mass Customer,7,0,1
+Gretna,Thredder,1,51,1966-01-08,1607 Westridge Drive,2203,Australia,NSW,,,62,11,Mass Customer,18,0,0
+Tobiah,Heinsius,0,17,2000-01-25,3630 Dawn Crossing,2446,Australia,NSW,Chief Design Engineer,Health,66,8,High Net Worth,9,0,0
+Wallace,Newart,0,40,1977-12-06,29007 Dapin Street,4650,Australia,QLD,,IT,91,1,Mass Customer,17,0,0
+Hersh,Stubbert,0,17,2000-06-25,68 Fairfield Street,4115,Australia,QLD,Technical Writer,Manufacturing,0,8,Mass Customer,15,0,1
+Hatti,Carletti,2,45,,6 Iowa Center,2519,Australia,NSW,Legal Assistant,IT,35,9,Affluent Customer,11,0,1
+Wyn,Saynor,0,53,1964-06-22,5 Briar Crest Road,2099,Australia,NSW,Cost Accountant,Financial Services,54,9,High Net Worth,8,0,0
+Maribeth,Stivani,1,63,1954-11-13,945 Bobwhite Court,2430,Australia,NSW,Associate Professor,Financial Services,46,8,Mass Customer,7,0,0
+Abigale,Sives,1,54,1963-12-13,2 Glendale Center,4207,Australia,QLD,VP Marketing,Health,48,4,Affluent Customer,14,0,1
+Gothart,Artus,0,39,1978-05-31,21824 Northridge Alley,2117,Australia,NSW,Health Coach IV,Health,52,10,Mass Customer,14,0,1
+Danny,Bodle,0,74,1943-09-24,68 Anthes Park,2007,Australia,NSW,Statistician I,Manufacturing,50,9,Mass Customer,18,0,1
+Vittorio,Boxen,0,52,1965-08-15,3 Anthes Court,2148,Australia,NSW,Mechanical Systems Engineer,,94,9,Mass Customer,14,0,0
+Deborah,Petrovsky,1,74,1943-07-14,036 Redwing Street,2011,Australia,NSW,Teacher,Property,53,7,Mass Customer,16,0,0
+Agace,Hedge,1,20,1997-07-23,92 Petterle Place,3429,Australia,VIC,Media Manager II,,25,8,Mass Customer,13,0,1
+Rolland,Esmead,0,77,1940-07-13,72008 7th Avenue,2200,Australia,NSW,,Health,41,8,Affluent Customer,8,0,0
+Latrena,Walklate,1,74,1943-10-05,87 Sheridan Junction,2281,Australia,NSW,Mechanical Systems Engineer,Telecommunications,97,8,High Net Worth,13,0,1
+Mariquilla,Springthorpe,1,78,1939-04-04,811 Melrose Park,2224,Australia,NSW,Director of Sales,,30,10,Mass Customer,8,0,1
+Leticia,Danovich,1,76,1941-10-02,2 Logan Avenue,4307,Australia,QLD,Design Engineer,Entertainment,84,1,Mass Customer,15,0,1
+Harman,Lynds,0,56,1961-05-27,538 Gina Way,4105,Australia,QLD,Professor,,4,8,Mass Customer,5,0,1
+Farra,Matyushkin,1,43,1974-01-24,52761 Portage Crossing,3170,Australia,VIC,VP Quality Control,Manufacturing,18,9,High Net Worth,9,0,1
+Robenia,Monks,1,58,1959-05-08,8 Fieldstone Street,4065,Australia,QLD,Nurse Practicioner,Manufacturing,94,9,Mass Customer,5,0,0
+Roman,Eastwood,0,48,1969-09-21,8957 Anhalt Alley,3004,Australia,VIC,Associate Professor,Manufacturing,57,4,Affluent Customer,16,0,1
+Solomon,Bruck,0,60,1957-11-15,5 High Crossing Junction,4556,Australia,QLD,Junior Executive,Health,29,8,Mass Customer,12,0,0
+Krystyna,Airey,1,67,1950-09-05,75760 Toban Junction,4006,Australia,QLD,Safety Technician II,,2,5,Mass Customer,19,0,1
+Katharine,Redbourn,1,50,1967-09-11,178 Waxwing Trail,3134,Australia,VIC,Recruiter,Manufacturing,8,10,Affluent Customer,4,0,1
+Cammy,Stoneham,1,54,1963-05-02,8648 Green Alley,4680,Australia,QLD,Business Systems Development Analyst,Financial Services,74,3,High Net Worth,14,0,0
+Ellsworth,Andrieux,0,46,1971-04-26,08912 Carberry Place,4036,Australia,QLD,Senior Cost Accountant,Financial Services,49,7,Affluent Customer,10,0,1
+Federico,Leuty,0,39,1978-12-11,720 Menomonie Crossing,2380,Australia,NSW,Product Engineer,Property,59,4,High Net Worth,11,0,1
+Ferdy,Hornung,0,43,1974-05-14,0686 Hallows Trail,4506,Australia,QLD,Analog Circuit Design manager,Entertainment,57,3,High Net Worth,18,0,0
+Sunny,Christescu,1,42,1975-03-12,6668 Blue Bill Park Plaza,2209,Australia,NSW,Cost Accountant,Financial Services,90,10,Mass Customer,11,0,0
+Shadow,Yakutin,0,50,1967-02-03,06 Dwight Park,4119,Australia,QLD,Software Test Engineer IV,Health,85,2,Affluent Customer,6,0,1
+Sharai,Priddie,1,56,1961-01-16,5202 Crowley Place,2145,Australia,NSW,Sales Representative,Retail,13,9,Mass Customer,9,0,0
+Celeste,Fretson,1,37,1980-09-16,14709 Portage Avenue,2166,Australia,NSW,Product Engineer,IT,91,9,Mass Customer,9,0,0
+Lea,Ilyinski,1,20,1997-09-25,895 Glendale Park,2026,Australia,NSW,Structural Analysis Engineer,Financial Services,75,12,High Net Worth,12,0,0
+Dyann,Olechnowicz,1,78,1939-07-17,0474 Bowman Hill,3031,Australia,VIC,Nuclear Power Engineer,Manufacturing,17,10,Mass Customer,16,0,0
+Delly,Sunman,1,58,1959-04-11,652 Fuller Terrace,3206,Australia,VIC,Account Coordinator,Retail,49,12,Mass Customer,15,0,0
+Malvin,Ryhorovich,0,55,1962-03-03,5356 Sugar Plaza,4818,Australia,QLD,Quality Control Specialist,,37,3,Mass Customer,5,0,0
+Tanya,Hamberston,1,17,2000-09-25,7 Schiller Point,4113,Australia,QLD,Product Engineer,,45,6,Mass Customer,9,0,1
+Kaela,Romaines,1,46,1971-11-27,9193 Prairieview Drive,2155,Australia,NSW,Geological Engineer,Manufacturing,41,10,High Net Worth,19,0,0
+Evonne,Bembridge,1,48,1969-07-06,13272 Basil Avenue,3103,Australia,VIC,Recruiting Manager,Retail,9,9,Mass Customer,14,0,1
+Shannen,Lewin,1,26,1991-06-07,29 Aberg Crossing,4210,Australia,QLD,Analog Circuit Design manager,Argiculture,21,6,High Net Worth,6,0,0
+Bogey,Attew,0,25,1992-11-18,4 Monterey Road,4165,Australia,QLD,Software Engineer II,IT,88,9,Mass Customer,10,0,1
+Zondra,Ringham,1,69,1948-01-13,416 Lighthouse Bay Lane,4510,Australia,QLD,Cost Accountant,Financial Services,36,5,Mass Customer,7,0,1
+Barnebas,Apfel,0,21,1996-02-19,05475 Elgar Place,4000,Australia,QLD,Account Executive,Manufacturing,57,6,Affluent Customer,2,0,1
+Alleen,Eaken,1,79,1938-08-31,343 Lakewood Center,2089,Australia,NSW,,,56,12,Mass Customer,10,0,0
+Gerri,Schimann,1,48,1969-11-17,47 Kim Terrace,2566,Australia,NSW,Desktop Support Technician,Property,81,8,Mass Customer,18,0,1
+Antonietta,Egle,1,44,1973-09-25,590 Hagan Parkway,3805,Australia,VIC,Actuary,Financial Services,82,7,Mass Customer,7,0,0
+Raff,Waycott,0,66,1951-12-16,94694 Eagle Crest Terrace,3977,Australia,VIC,Engineer IV,Manufacturing,70,7,Affluent Customer,14,0,1
+Lark,Gonet,1,45,1972-01-17,261 Orin Center,2763,Australia,NSW,Database Administrator II,Health,89,8,High Net Worth,8,0,0
+Cletis,Longley,0,21,1996-07-01,667 Waxwing Plaza,3199,Australia,VIC,Chemical Engineer,Manufacturing,84,7,High Net Worth,1,0,1
+Bartram,Di Lucia,0,56,1961-01-03,83509 Delaware Street,2480,Australia,NSW,,Argiculture,70,3,Mass Customer,5,0,1
+Theresa,Cowper,1,41,1976-08-24,88 Mifflin Pass,2529,Australia,NSW,Accountant III,Manufacturing,99,10,Mass Customer,3,0,0
+Philbert,Raraty,0,61,1956-06-28,10 Dexter Park,2177,Australia,NSW,Executive Secretary,Manufacturing,48,9,Mass Customer,6,0,0
+Egon,Ortells,0,41,1976-06-11,3 Sundown Hill,2168,Australia,NSW,Structural Engineer,Manufacturing,35,9,Affluent Customer,13,0,0
+Dahlia,Shovlar,1,51,1966-03-07,655 Glendale Trail,3976,Australia,VIC,Environmental Specialist,,90,3,Affluent Customer,7,0,1
+Timi,Duny,1,64,1953-03-12,39192 Glendale Alley,2092,Australia,NSW,Office Assistant II,Telecommunications,70,12,High Net Worth,6,0,0
+Dominick,Asher,0,55,1962-10-06,7307 Lake View Crossing,3804,Australia,VIC,Research Associate,Health,50,9,Affluent Customer,5,0,1
+Raye,Roo,1,41,1976-03-07,1199 Express Plaza,3046,Australia,VIC,Database Administrator I,Financial Services,64,9,Mass Customer,16,0,1
+Becka,Hacon,1,52,1965-07-03,1 Namekagon Point,3791,Australia,VIC,General Manager,Financial Services,81,9,Affluent Customer,17,0,0
+Cirillo,Frossell,0,49,1968-10-14,602 Meadow Vale Lane,2111,Australia,NSW,Graphic Designer,,7,12,Mass Customer,6,0,0
+Verla,Dumingos,1,46,1971-09-18,6784 Spohn Alley,3021,Australia,VIC,Design Engineer,Telecommunications,26,8,Mass Customer,10,0,1
+Sherrie,Godleman,1,39,1978-04-02,67 Shelley Crossing,3350,Australia,VIC,Associate Professor,Manufacturing,37,2,Mass Customer,19,0,0
+Dexter,Shutle,0,58,1959-01-05,07 Dayton Court,4005,Australia,QLD,Quality Control Specialist,,81,7,Mass Customer,17,0,0
+Konstanze,Hovie,1,50,1967-01-09,351 Sunfield Lane,4370,Australia,QLD,Pharmacist,Health,88,7,Mass Customer,11,0,0
+Bink,Bentje,0,60,1957-03-23,8427 Moulton Place,2680,Australia,NSW,Payment Adjustment Coordinator,Financial Services,3,3,High Net Worth,19,0,1
+Taber,Szymon,0,70,1947-04-22,984 Del Sol Junction,4659,Australia,QLD,Senior Sales Associate,Argiculture,70,8,Affluent Customer,13,0,0
+Debbi,Dannatt,1,59,1958-12-28,3 Pepper Wood Hill,4218,Australia,QLD,Technical Writer,,2,10,Affluent Customer,6,0,0
+Giana,Staresmeare,1,41,1976-04-20,8737 Scoville Center,2770,Australia,NSW,Account Representative IV,Retail,96,7,Affluent Customer,9,0,1
+Morton,Petkens,0,27,1990-11-13,385 Montana Place,3012,Australia,VIC,Account Coordinator,Manufacturing,50,1,High Net Worth,10,0,1
+Vittoria,Whitney,1,36,1981-06-03,3 Surrey Court,2019,Australia,NSW,Research Assistant I,,95,11,High Net Worth,12,0,0
+Paquito,Atwood,0,45,1972-07-30,2 Magdeline Street,3199,Australia,VIC,Nuclear Power Engineer,Manufacturing,15,8,Affluent Customer,9,0,0
+Dimitri,Tribbeck,0,59,1958-12-07,93235 Hoard Trail,3165,Australia,VIC,Chief Design Engineer,,89,6,Affluent Customer,20,0,0
+Shelli,Bartholomaus,1,54,1963-05-11,356 Carberry Avenue,3082,Australia,VIC,Associate Professor,Health,88,7,Mass Customer,6,0,1
+Kermit,Lebond,0,37,1980-02-01,71 Ludington Center,4208,Australia,QLD,Financial Advisor,Financial Services,36,8,Mass Customer,4,0,0
+Biddie,Gorce,1,29,1988-01-30,2116 Continental Terrace,2795,Australia,NSW,Senior Financial Analyst,Financial Services,68,7,Mass Customer,5,0,1
+Rupert,Marrow,0,47,1970-08-08,2 7th Way,2760,Australia,NSW,,Property,73,8,High Net Worth,19,0,0
+Geoff,Sitford,0,52,1965-02-27,7 Elgar Road,2148,Australia,NSW,Account Executive,Financial Services,97,8,Mass Customer,4,0,1
+Ange,Chitham,1,26,1991-02-14,00003 Hoffman Pass,2560,Australia,NSW,,Argiculture,91,8,Mass Customer,10,0,0
+Tiphanie,Blackader,1,70,1947-10-08,71 Stone Corner Avenue,2007,Australia,NSW,Physical Therapy Assistant,Retail,59,11,Mass Customer,17,0,0
+Zollie,Crinidge,0,29,1988-01-10,0 Esker Avenue,4019,Australia,QLD,Systems Administrator I,Retail,39,5,Mass Customer,10,0,1
+Daisy,Pollen,1,24,1993-08-09,61825 Debs Terrace,3167,Australia,VIC,Cost Accountant,Financial Services,97,9,Mass Customer,7,0,0
+Emelen,Bidnall,0,36,1981-08-05,11 Oak Terrace,2026,Australia,NSW,Systems Administrator IV,Health,79,12,Affluent Customer,11,0,1
+Linette,Boman,1,68,1949-05-20,7 Michigan Hill,2076,Australia,NSW,Account Executive,,56,11,Affluent Customer,11,0,0
+Manya,Abramovici,1,62,1955-07-17,8 Randy Park,4214,Australia,QLD,Quality Engineer,Financial Services,42,8,High Net Worth,13,0,1
+Brynna,Tivers,1,43,1974-08-09,0 Mayfield Parkway,4272,Australia,QLD,Recruiting Manager,Financial Services,81,7,Mass Customer,6,0,0
+Art,Carolan,0,63,1954-11-09,57903 Hanson Parkway,2570,Australia,NSW,Marketing Manager,,1,9,Affluent Customer,11,0,1
+Alfi,Sabbins,1,58,1959-06-12,763 Ridgeway Place,2344,Australia,NSW,,Financial Services,63,3,High Net Worth,18,0,1
+Loleta,Aberdalgy,1,36,1981-02-15,99 Westend Court,2287,Australia,NSW,Occupational Therapist,Health,45,6,Mass Customer,11,0,0
+Aldric,Birney,0,46,1971-08-19,5 Caliangt Center,2546,Australia,NSW,,Manufacturing,21,6,Mass Customer,14,0,1
+Natividad,Balducci,1,26,1991-02-07,4472 Washington Junction,3206,Australia,VIC,,Property,39,11,High Net Worth,10,0,1
+Claudine,Dymick,1,52,1965-12-13,31675 Corry Way,3977,Australia,VIC,Design Engineer,Health,28,5,Mass Customer,5,0,0
+Seamus,Cains,0,28,1989-12-15,4882 Dakota Center,2305,Australia,NSW,Teacher,Manufacturing,61,8,High Net Worth,7,0,0
+Guss,Karim,0,49,1968-11-24,4 Warner Circle,2227,Australia,NSW,Senior Sales Associate,Manufacturing,95,11,Mass Customer,7,0,0
+Julietta,Setchfield,1,25,1992-01-31,4 Manufacturers Crossing,4170,Australia,QLD,Operator,,73,8,High Net Worth,3,0,1
+Roch,Symson,1,39,1978-05-13,016 Westport Park,3073,Australia,VIC,Office Assistant I,Manufacturing,96,9,High Net Worth,18,0,0
+Audry,Fann,1,60,1957-10-17,19 Debs Parkway,3029,Australia,VIC,Pharmacist,Health,3,6,Mass Customer,15,0,1
+Cecelia,Cisar,1,32,1985-03-26,665 Sachs Way,4212,Australia,QLD,,Property,20,7,Mass Customer,15,0,1
+Clari,Voas,1,62,1955-07-28,4110 Mifflin Center,2127,Australia,NSW,Human Resources Assistant II,Health,74,8,Affluent Customer,14,0,1
+Zach,Hedman,0,36,1981-09-11,62 Spaight Center,2566,Australia,NSW,Analyst Programmer,Financial Services,87,9,Affluent Customer,4,0,1
+Paxon,Roomes,0,41,1976-11-06,3 Express Lane,3021,Australia,VIC,Information Systems Manager,,78,7,High Net Worth,7,0,1
+Parnell,Lamprey,0,40,1977-04-08,7353 Mallard Junction,2165,Australia,NSW,Engineer III,Financial Services,23,6,High Net Worth,12,0,0
+Honey,Gosdin,1,36,1981-11-29,066 Warner Trail,2582,Australia,NSW,Software Engineer I,Property,0,9,Mass Customer,17,0,0
+Sonny,McCart,0,25,1992-08-27,52752 Barby Hill,3020,Australia,VIC,Account Representative I,Manufacturing,35,9,High Net Worth,9,0,0
+Rozamond,Turtle,2,45,,57025 New Castle Street,3850,Australia,VIC,Legal Assistant,IT,69,3,Mass Customer,3,0,1
+Deirdre,Burgoine,1,62,1955-01-08,0 Stoughton Park,3000,Australia,VIC,Programmer III,Health,14,1,High Net Worth,7,0,0
+Haleigh,,1,65,1952-05-19,49 Jana Point,4503,Australia,QLD,Senior Sales Associate,Financial Services,17,4,Mass Customer,18,0,1
+Aldridge,Poskitt,0,35,1982-02-10,7 Fordem Point,4161,Australia,QLD,VP Sales,,84,5,Mass Customer,12,0,0
+Zechariah,McReidy,0,39,1978-07-22,797 Westend Street,4207,Australia,QLD,Technical Writer,Manufacturing,32,6,High Net Worth,21,0,0
+Carry,Costi,1,45,1972-11-26,5316 Farwell Hill,2800,Australia,NSW,Senior Developer,Property,32,4,Mass Customer,11,0,0
+Alon,,0,18,1999-06-23,770 Crest Line Parkway,4218,Australia,QLD,Accountant IV,,17,3,Affluent Customer,9,0,0
+Ahmed,Pickthorne,0,58,1959-12-25,50 American Street,2147,Australia,NSW,Marketing Manager,,46,9,High Net Worth,15,0,1
+Nil,Shirer,0,20,1997-09-27,4793 Mcbride Pass,3013,Australia,VIC,Librarian,Entertainment,64,8,Mass Customer,7,0,1
+Erhard,O'Moylane,0,39,1978-05-27,01124 Dottie Lane,3630,Australia,VIC,Media Manager I,Retail,33,2,Affluent Customer,9,0,1
+Vitia,Axtens,1,72,1945-08-08,42681 Carey Alley,2011,Australia,NSW,Financial Advisor,Financial Services,62,10,Mass Customer,15,0,1
+Haskell,Moxted,0,74,1943-08-27,2941 Talisman Alley,2145,Australia,NSW,Civil Engineer,Manufacturing,81,9,Mass Customer,7,0,0
+Ebony,Conrad,1,18,1999-10-24,990 Hoffman Avenue,3029,Australia,VIC,Environmental Tech,Financial Services,8,7,Mass Customer,16,0,1
+Lincoln,Boler,0,41,1976-01-24,5 Summer Ridge Court,3207,Australia,VIC,Chief Design Engineer,,53,8,Affluent Customer,14,0,0
+Vladimir,Westmerland,0,61,1956-06-19,102 Charing Cross Terrace,2640,Australia,NSW,,Manufacturing,18,4,Mass Customer,18,0,1
+Kylynn,Drowsfield,1,42,1975-03-28,5 Trailsway Avenue,3059,Australia,VIC,Editor,,80,9,High Net Worth,7,0,1
+Nicole,Ruckhard,1,48,1969-10-09,23694 Leroy Place,4560,Australia,QLD,Human Resources Manager,Health,93,3,Affluent Customer,17,0,1
+Celestina,Lethardy,1,49,1968-12-11,53 Memorial Street,3163,Australia,VIC,Software Consultant,IT,38,10,Mass Customer,11,0,1
+Tannie,Petrakov,0,66,1951-11-27,691 Valley Edge Alley,4078,Australia,QLD,Data Coordiator,IT,84,6,Affluent Customer,10,0,0
+Bessy,Saladin,1,78,1939-12-22,60073 Pankratz Pass,4075,Australia,QLD,VP Marketing,Manufacturing,22,10,Mass Customer,16,0,1
+Diego,Van den Broek,0,53,1964-09-28,8 Schlimgen Drive,4055,Australia,QLD,Business Systems Development Analyst,Manufacturing,17,7,Affluent Customer,13,0,1
+Lucilia,Minshall,1,65,1952-04-15,0237 Mallard Place,2750,Australia,NSW,,IT,71,8,Mass Customer,7,0,1
+Cissiee,Pollington,1,76,1941-07-21,69710 Northfield Center,2256,Australia,NSW,Associate Professor,Property,43,9,Mass Customer,7,0,1
+Eddy,Sturch,0,56,1961-02-11,1 Kinsman Crossing,4158,Australia,QLD,Software Consultant,Financial Services,22,6,High Net Worth,17,0,1
+Caron,Kezar,1,64,1953-08-08,40553 Rigney Avenue,2835,Australia,NSW,Social Worker,Health,11,1,Mass Customer,5,0,0
+Sandor,Stirland,0,36,1981-05-26,48578 Farmco Park,3235,Australia,VIC,Web Developer IV,Manufacturing,67,10,High Net Worth,12,0,0
+Gallagher,Bromell,0,61,1956-12-02,91634 Badeau Crossing,4556,Australia,QLD,Assistant Manager,,18,8,Mass Customer,17,0,0
+Murial,Bulloch,1,53,1964-10-01,391 Old Shore Lane,2011,Australia,NSW,,Financial Services,59,6,Mass Customer,13,0,0
+Delinda,Ech,1,73,1944-10-21,28 Golf View Terrace,3101,Australia,VIC,Environmental Specialist,Argiculture,74,10,Mass Customer,17,0,1
+Hussein,Tapenden,0,64,1953-10-19,0197 Sachs Avenue,2747,Australia,NSW,Pharmacist,Health,19,8,Affluent Customer,12,0,1
+Giulietta,Garbott,1,15,2002-02-27,48297 Stuart Circle,3810,Australia,VIC,Technical Writer,,59,5,Affluent Customer,14,0,1
+Kaylyn,Jakaway,1,37,1980-07-30,67 Heath Circle,2290,Australia,NSW,Registered Nurse,Health,45,8,Affluent Customer,10,0,0
+Brynn,Goodyear,1,73,1944-11-10,3 Sheridan Lane,3075,Australia,VIC,Human Resources Manager,Health,30,7,Mass Customer,11,0,1
+Otis,,0,46,1971-01-11,04 Oakridge Plaza,2075,Australia,NSW,Electrical Engineer,Manufacturing,59,11,Affluent Customer,12,0,0
+Tamas,Swatman,2,45,,78 Clarendon Drive,4551,Australia,QLD,Assistant Media Planner,Entertainment,65,8,Affluent Customer,5,0,0
+Pace,Clemonts,0,27,1990-07-28,335 Cambridge Hill,3122,Australia,VIC,Media Manager IV,Retail,99,7,High Net Worth,10,0,0
+Tracy,Andrejevic,2,45,,5675 Burning Wood Trail,3030,Australia,VIC,Programmer II,IT,71,7,Mass Customer,11,0,1
+Muffin,Grigolon,0,38,1979-10-31,4597 Marcy Point,2232,Australia,NSW,Senior Editor,Telecommunications,7,10,Mass Customer,12,0,0
+Allsun,Biner,1,20,1997-12-26,9 Walton Way,2641,Australia,NSW,Nurse Practicioner,Financial Services,67,2,Mass Customer,10,0,1
+Kenneth,Elleyne,0,60,1957-09-03,27429 Dottie Plaza,3145,Australia,VIC,Technical Writer,Financial Services,13,11,Mass Customer,13,0,0
+Clotilda,Southers,1,18,1999-11-08,42 Donald Hill,2323,Australia,NSW,Computer Systems Analyst II,Financial Services,62,4,Mass Customer,15,0,1
+Augustus,Bourley,0,36,1981-08-17,3 Hoepker Parkway,4152,Australia,QLD,,Health,60,10,Affluent Customer,18,0,0
+Daisi,Tinwell,1,46,1971-12-24,19561 Express Street,2777,Australia,NSW,Business Systems Development Analyst,Financial Services,84,8,Mass Customer,11,0,0
+Gerik,Woodroof,0,58,1959-06-13,41 Kropf Road,3175,Australia,VIC,Paralegal,Financial Services,18,7,High Net Worth,9,0,1
+Claresta,MacConnulty,1,60,1957-10-01,0516 Fremont Point,2026,Australia,NSW,Recruiting Manager,,6,9,Mass Customer,20,0,1
+Arty,Fontelles,0,23,1994-10-21,7872 South Junction,3197,Australia,VIC,Help Desk Technician,IT,50,4,High Net Worth,4,0,0
+Giulia,Hazart,1,39,1978-08-02,81 Donald Parkway,4218,Australia,QLD,Help Desk Technician,,57,11,Mass Customer,11,0,0
+Whit,Emloch,0,54,1963-08-20,105 Carpenter Court,2220,Australia,NSW,Food Chemist,Health,30,9,Mass Customer,6,0,1
+Rowan,Summerly,0,43,1974-07-05,58231 Tomscot Plaza,2209,Australia,NSW,Librarian,Entertainment,4,10,Mass Customer,9,0,0
+Ian,Rabat,0,42,1975-08-04,3 Loeprich Point,3204,Australia,VIC,Web Designer I,Financial Services,54,11,Affluent Customer,11,0,0
+Agneta,McAmish,2,45,,5773 Acker Way,4207,Australia,QLD,Structural Analysis Engineer,IT,66,6,Mass Customer,15,0,0
+Reginald,Jermy,0,57,1960-09-12,540 Katie Street,4128,Australia,QLD,Director of Sales,,7,8,High Net Worth,20,0,1
+Link,Gorini,0,43,1974-11-09,9495 Jenna Way,4600,Australia,QLD,,IT,60,2,High Net Worth,10,0,0
+Harriet,Brattan,1,31,1986-12-03,66 Ruskin Parkway,3579,Australia,VIC,Human Resources Assistant I,Financial Services,81,1,High Net Worth,2,0,0
+Sada,Branton,1,43,1974-06-24,9736 Mitchell Pass,3199,Australia,VIC,Nuclear Power Engineer,Manufacturing,34,6,Affluent Customer,14,0,0
+Jenelle,Mc-Kerley,1,75,1942-01-23,9 Springview Terrace,4068,Australia,QLD,Data Coordiator,Financial Services,40,5,Mass Customer,16,0,1
+Gabrila,Toopin,1,54,1963-01-14,1914 Oakridge Place,2456,Australia,NSW,Junior Executive,Manufacturing,7,6,Mass Customer,12,0,0
+Almira,Mangion,1,21,1996-01-24,179 Anzinger Center,2230,Australia,NSW,VP Product Management,Financial Services,4,12,Affluent Customer,2,0,1
+Arty,Strudwick,0,53,1964-01-31,62 Melrose Court,2211,Australia,NSW,Data Coordiator,Health,85,10,Mass Customer,8,0,1
+Alexa,Dillet,1,73,1944-10-05,84650 Novick Point,2261,Australia,NSW,Product Engineer,Entertainment,65,7,Affluent Customer,17,0,0
+Palmer,Heaven,0,22,1995-05-18,5 Hoard Parkway,3754,Australia,VIC,Staff Scientist,Financial Services,82,6,Affluent Customer,9,0,1
+Porter,Buckenhill,0,63,1954-06-14,376 Talmadge Street,4124,Australia,QLD,Help Desk Operator,Manufacturing,46,7,High Net Worth,9,0,1
+Kizzee,Kemston,1,56,1961-09-29,5979 Green Ridge Way,2767,Australia,NSW,,Health,11,8,Mass Customer,13,0,0
+Isadora,Ducker,1,44,1973-08-25,2972 Holy Cross Crossing,3153,Australia,VIC,Account Executive,,15,5,Affluent Customer,8,0,1
+Giffie,Offill,0,24,1993-03-02,89 Riverside Court,4740,Australia,QLD,Structural Engineer,Telecommunications,51,3,Affluent Customer,5,0,0
+Fara,Sarath,1,69,1948-06-30,540 Forest Run Plaza,2168,Australia,NSW,Quality Control Specialist,,75,7,Mass Customer,22,0,0
+Carolann,Raatz,1,38,1979-02-26,817 Bunker Hill Place,3977,Australia,VIC,Chief Design Engineer,,25,6,High Net Worth,21,0,0
+Tamar,Windmill,1,78,1939-08-28,4669 Troy Place,2207,Australia,NSW,Senior Editor,Manufacturing,92,10,Affluent Customer,10,0,0
+Kipp,Stockport,0,35,1982-12-10,02 Roth Drive,2022,Australia,NSW,Data Coordiator,Retail,36,11,Mass Customer,6,0,1
+Packston,Wackett,0,67,1950-04-26,7 Northridge Court,3192,Australia,VIC,Quality Engineer,Financial Services,10,9,Mass Customer,19,0,0
+Hanson,Eastes,0,27,1990-05-20,5735 Starling Plaza,3056,Australia,VIC,,Manufacturing,74,9,Mass Customer,5,0,1
+Demetria,Bausor,1,56,1961-12-22,97 Transport Plaza,2097,Australia,NSW,Assistant Media Planner,Entertainment,73,12,Mass Customer,9,0,1
+Lura,Fawdrie,1,15,2002-01-17,67183 Anniversary Parkway,4211,Australia,QLD,VP Sales,Health,66,3,Mass Customer,4,0,1
+Nora,Anselm,1,56,1961-01-05,2 Emmet Parkway,4342,Australia,QLD,,Entertainment,84,5,High Net Worth,15,0,1
+Estevan,Eastment,0,75,1942-08-09,61926 Tomscot Hill,2019,Australia,NSW,Environmental Specialist,Health,54,8,Mass Customer,21,0,1
+Aloysius,Glowacz,0,38,1979-03-24,07 Susan Lane,2232,Australia,NSW,Financial Advisor,Financial Services,72,10,Affluent Customer,18,0,0
+Bastien,Ibbeson,0,41,1976-11-04,43094 Kedzie Pass,2487,Australia,NSW,Software Consultant,IT,53,5,Mass Customer,12,0,0
+Otha,Langworthy,1,50,1967-01-20,678 Lyons Trail,3130,Australia,VIC,Senior Financial Analyst,Financial Services,91,10,Mass Customer,13,0,1
+Gannie,Bargh,0,62,1955-02-13,1832 Burning Wood Place,3201,Australia,VIC,Analyst Programmer,,56,7,Mass Customer,13,0,1
+Dwayne,Doel,0,39,1978-01-21,5642 Debs Terrace,2223,Australia,NSW,Cost Accountant,Financial Services,80,11,Affluent Customer,17,0,1
+Leese,Huckleby,1,40,1977-09-10,73 Riverside Trail,3777,Australia,VIC,Help Desk Operator,Manufacturing,67,7,High Net Worth,16,0,1
+Dodi,Kiggel,1,37,1980-08-15,05 Everett Trail,2114,Australia,NSW,,Financial Services,5,11,Mass Customer,13,0,1
+Kippar,Brimilcome,0,79,1938-11-29,082 Welch Lane,2089,Australia,NSW,Graphic Designer,Health,21,11,Mass Customer,19,0,0
+Corinna,Beretta,1,21,1996-02-29,72 Mccormick Circle,3023,Australia,VIC,Programmer III,Health,24,7,High Net Worth,12,0,0
+Laurie,Odlin,1,34,1983-03-08,15669 Arizona Trail,3194,Australia,VIC,Social Worker,Health,75,10,High Net Worth,10,0,0
+Mair,Erett,1,60,1957-12-05,79 Armistice Parkway,2117,Australia,NSW,Speech Pathologist,,15,7,Affluent Customer,18,0,0
+Marcelia,Copins,1,71,1946-03-15,330 Melby Terrace,2259,Australia,NSW,,,81,8,Mass Customer,21,0,1
+Tanner,Terlinden,0,22,1995-12-09,2637 Monument Trail,3106,Australia,VIC,Nuclear Power Engineer,Manufacturing,84,11,Mass Customer,14,0,0
+Hilliard,Dullard,0,63,1954-07-18,37919 Old Gate Park,2163,Australia,NSW,Civil Engineer,Manufacturing,65,8,Mass Customer,17,0,0
+Justinn,Haruard,1,59,1958-08-28,00 Judy Terrace,2035,Australia,NSW,Health Coach IV,Health,48,12,High Net Worth,11,0,0
+Wyn,Meach,0,79,1938-09-10,79 Armistice Junction,2765,Australia,NSW,,Manufacturing,37,9,Mass Customer,9,0,0
+Art,Shardlow,0,54,1963-10-15,7 Clemons Circle,4350,Australia,QLD,Data Coordiator,Argiculture,57,2,Mass Customer,15,0,1
+Dennis,Varnham,0,64,1953-05-17,6455 Mayfield Street,3350,Australia,VIC,Assistant Media Planner,Entertainment,57,3,Affluent Customer,17,0,0
+Freddi,Litherborough,1,28,1989-01-14,7873 Meadow Vale Plaza,2460,Australia,NSW,Product Engineer,Financial Services,46,3,Mass Customer,7,0,0
+Salomon,Perkins,0,19,1998-01-12,45 Banding Hill,2009,Australia,NSW,Engineer IV,Financial Services,76,10,Affluent Customer,1,0,1
+Sherill,,1,26,1991-12-18,53 Moulton Avenue,2880,Australia,NSW,Information Systems Manager,Financial Services,33,1,Mass Customer,3,0,0
+Queenie,Learie,1,69,1948-01-24,7 Sauthoff Park,2073,Australia,NSW,,Property,90,11,Mass Customer,12,0,0
+Etan,Prinett,0,47,1970-01-21,9082 Waywood Avenue,2250,Australia,NSW,Operator,Argiculture,97,8,Mass Customer,10,0,1
+Donaugh,Benedict,0,26,1991-12-01,30049 Brown Road,2233,Australia,NSW,Systems Administrator III,Property,3,9,Mass Customer,12,0,0
+Harwell,Kleinstein,0,24,1993-10-18,7 Huxley Trail,3818,Australia,VIC,Sales Representative,Retail,87,5,Affluent Customer,15,0,0
+Cheston,Hritzko,0,72,1945-11-08,3 Service Center,2127,Australia,NSW,Software Engineer III,Manufacturing,70,9,Mass Customer,19,0,1
+Suzy,Trounson,1,70,1947-07-19,0627 Golf Center,4152,Australia,QLD,Senior Financial Analyst,Financial Services,13,9,Mass Customer,20,0,1
+Jobie,Runacres,1,42,1975-01-08,24960 Shopko Crossing,2528,Australia,NSW,Developer IV,,96,7,Mass Customer,18,0,1
+Guenna,Filisov,1,48,1969-02-09,43 Stoughton Drive,2154,Australia,NSW,Chemical Engineer,Manufacturing,52,9,High Net Worth,13,0,0
+Opal,Cleare,1,40,1977-09-26,247 Blue Bill Park Parkway,2066,Australia,NSW,Database Administrator II,Property,6,9,Affluent Customer,20,0,1
+Ottilie,Wanless,1,77,1940-11-10,2 David Pass,2720,Australia,NSW,Environmental Specialist,,51,4,Affluent Customer,8,0,0
+Kipper,Circuit,0,43,1974-12-12,3867 Barby Hill,2140,Australia,NSW,Research Assistant IV,Argiculture,23,8,Mass Customer,4,0,1
+Marilin,Frome,1,42,1975-12-22,52 Bobwhite Court,2219,Australia,NSW,Account Executive,IT,58,9,Mass Customer,17,0,1
+Arel,Abramovitz,0,60,1957-11-12,32249 Sycamore Way,4650,Australia,QLD,Nurse Practicioner,Health,72,4,Mass Customer,16,0,0
+Kit,Easdon,0,39,1978-10-26,3 Roth Junction,3156,Australia,VIC,Director of Sales,Property,61,8,Affluent Customer,12,0,0
+Gregg,Aimeric,2,45,,72423 Surrey Street,3753,Australia,VIC,Internal Auditor,IT,52,5,Mass Customer,7,0,0
+Skipp,Swales,0,44,1973-11-14,76 Green Ridge Drive,3029,Australia,VIC,Community Outreach Specialist,Entertainment,15,7,High Net Worth,22,0,1
+Frederich,Glantz,0,20,1997-08-27,9 Glacier Hill Circle,2762,Australia,NSW,Nuclear Power Engineer,Manufacturing,37,8,High Net Worth,10,0,1
+Rodolph,Denniss,0,43,1974-08-07,91281 Transport Center,3356,Australia,VIC,Geologist III,Property,28,2,Affluent Customer,7,0,1
+Craggie,Dering,0,65,1952-10-05,11 Paget Road,2125,Australia,NSW,Actuary,Financial Services,47,10,Mass Customer,7,0,0
+Johna,Bunker,2,45,,3686 Waubesa Way,3065,Australia,VIC,Tax Accountant,IT,93,6,Mass Customer,14,0,1
+Giralda,MacPeake,1,76,1941-04-04,6 Killdeer Way,2705,Australia,NSW,Librarian,Entertainment,59,1,High Net Worth,14,0,1
+Rodney,Trethewey,0,20,1997-03-17,737 Service Lane,3030,Australia,VIC,Software Consultant,Financial Services,16,8,Affluent Customer,15,0,0
+Theresina,,1,30,1987-03-01,253 Katie Junction,2650,Australia,NSW,General Manager,Argiculture,30,2,Mass Customer,14,0,1
+Gleda,Howerd,1,53,1964-01-22,481 Moulton Place,2440,Australia,NSW,Senior Developer,IT,59,2,Mass Customer,6,0,0
+Melany,Ladewig,1,45,1972-05-17,3864 Sheridan Alley,4130,Australia,QLD,Research Associate,Financial Services,76,7,Mass Customer,10,0,1
+Claudell,Rounsefell,0,24,1993-11-27,61416 Karstens Place,4217,Australia,QLD,VP Sales,Financial Services,67,5,Affluent Customer,8,0,0
+Garwin,Nurden,0,59,1958-04-19,0 Union Parkway,3142,Australia,VIC,Programmer I,Property,54,11,High Net Worth,5,0,1
+Bunny,Leebetter,1,51,1966-04-30,4 Lukken Lane,4301,Australia,QLD,Quality Engineer,Manufacturing,83,4,High Net Worth,8,0,1
+Matias,Melloi,0,40,1977-02-03,1507 Schlimgen Trail,2155,Australia,NSW,Legal Assistant,Retail,61,10,Affluent Customer,11,0,0
+Sada,Dowyer,1,19,1998-11-22,4 Meadow Ridge Place,2090,Australia,NSW,Human Resources Manager,,47,10,High Net Worth,3,0,1
+Anet,Roseman,1,21,1996-11-24,31 Melody Circle,3814,Australia,VIC,Programmer Analyst III,Financial Services,84,4,Mass Customer,9,0,0
+Katie,Warhurst,1,26,1991-12-02,96 Rutledge Drive,3064,Australia,VIC,Help Desk Operator,Retail,0,5,High Net Worth,14,0,1
+Celia,Bryden,1,74,1943-04-06,2905 Towne Place,2114,Australia,NSW,Chemical Engineer,Manufacturing,12,9,High Net Worth,21,0,0
+Stearne,Trolley,0,35,1982-02-01,638 Caliangt Avenue,2137,Australia,NSW,Automation Specialist IV,Financial Services,42,11,High Net Worth,14,0,0
+Tristam,Larose,0,32,1985-01-29,9645 Moose Terrace,2137,Australia,NSW,VP Accounting,Financial Services,70,11,Mass Customer,17,0,0
+Laurena,,1,56,1961-07-31,7 Messerschmidt Crossing,3810,Australia,VIC,VP Sales,,21,6,High Net Worth,10,0,0
+Heloise,Fairpool,1,41,1976-09-07,005 Loeprich Way,4680,Australia,QLD,Information Systems Manager,Manufacturing,17,3,High Net Worth,17,0,0
+Dory,Malpass,1,45,1972-08-27,3653 Steensland Road,4103,Australia,QLD,,,19,8,Affluent Customer,13,0,1
+Marcellina,Baynton,1,70,1947-03-11,56 Comanche Terrace,3141,Australia,VIC,Software Engineer III,Financial Services,60,10,Mass Customer,16,0,0
+Gregorius,Leal,0,66,1951-04-29,66 Merry Court,2033,Australia,NSW,,Retail,7,12,Affluent Customer,21,0,1
+Deana,Canton,1,43,1974-11-25,92 Ludington Street,4301,Australia,QLD,,Property,67,3,Mass Customer,14,0,1
+Kori,Sparsholt,1,77,1940-05-19,37 Rigney Park,2171,Australia,NSW,Office Assistant II,,59,9,Mass Customer,19,0,1
+Lucky,Klainman,1,70,1947-11-26,0796 Barnett Plaza,3758,Australia,VIC,Chief Design Engineer,Retail,24,4,Mass Customer,8,0,0
+Erasmus,Olenchenko,0,52,1965-02-03,415 Rockefeller Trail,2484,Australia,NSW,Software Test Engineer IV,Property,56,7,Mass Customer,5,0,1
+Carita,Sand,1,40,1977-03-20,846 Loftsgordon Crossing,2154,Australia,NSW,Quality Engineer,Retail,25,11,Mass Customer,16,0,0
+Lynnett,Tipper,1,24,1993-08-03,9 Ridgeview Avenue,3109,Australia,VIC,Social Worker,Health,22,10,High Net Worth,2,0,1
+Thorn,Stigers,0,45,1972-05-19,6218 Delladonna Parkway,4115,Australia,QLD,Business Systems Development Analyst,Financial Services,42,8,Mass Customer,19,0,0
+Lela,Billing,1,47,1970-12-17,095 Glacier Hill Circle,2571,Australia,NSW,Programmer Analyst III,,38,7,Mass Customer,18,0,1
+Norah,Mapis,1,17,2000-12-09,057 Victoria Crossing,2263,Australia,NSW,Assistant Manager,Argiculture,75,9,Mass Customer,10,0,0
+Moina,Rosenbaum,1,16,2001-08-04,0 Memorial Road,3109,Australia,VIC,Graphic Designer,IT,50,10,Mass Customer,14,0,0
+Ceciley,Harg,1,27,1990-10-19,409 Starling Lane,4172,Australia,QLD,Nurse Practicioner,Retail,50,7,Mass Customer,4,0,1
+Torry,de la Valette Parisot,0,50,1967-03-14,36963 Pierstorff Terrace,3168,Australia,VIC,VP Marketing,Telecommunications,95,9,Mass Customer,18,0,1
+Sigismund,Sedger,0,18,1999-11-29,8069 Sunbrook Way,2155,Australia,NSW,Accountant II,Manufacturing,9,10,Affluent Customer,7,0,0
+Irvine,Headon,0,61,1956-04-21,9 Hovde Way,2322,Australia,NSW,Geologist III,IT,99,5,Affluent Customer,20,0,1
+Laurie,,0,38,1979-07-28,94 Barby Lane,2210,Australia,NSW,Assistant Media Planner,Entertainment,31,10,Mass Customer,15,0,1
+Tomkin,Bernlin,0,16,2001-12-29,0492 Kings Street,2480,Australia,NSW,Food Chemist,Health,7,3,Affluent Customer,9,0,1
+Genni,Fanstone,1,45,1972-07-29,1 Fair Oaks Alley,3149,Australia,VIC,Administrative Assistant II,Entertainment,25,10,Mass Customer,16,0,0
+Blondie,,1,22,1995-10-03,780 Norway Maple Hill,2565,Australia,NSW,Actuary,Financial Services,43,8,High Net Worth,11,0,0
+Aloysius,Killingsworth,0,60,1957-02-14,625 Mandrake Junction,2145,Australia,NSW,VP Quality Control,,89,9,Mass Customer,12,0,0
+Carola,Philler,1,66,1951-04-30,1037 Roth Park,2145,Australia,NSW,Dental Hygienist,Health,73,7,High Net Worth,15,0,0
+Fitzgerald,Hellikes,0,38,1979-07-28,315 Center Park,3040,Australia,VIC,Media Manager IV,Health,25,7,Mass Customer,10,0,1
+Ingmar,Okenden,0,58,1959-03-01,1 Graceland Plaza,3216,Australia,VIC,Compensation Analyst,Financial Services,97,2,Mass Customer,8,0,1
+Tina,Dunstan,1,78,1939-03-06,98555 Victoria Hill,2171,Australia,NSW,Account Representative IV,Retail,13,7,Affluent Customer,13,0,0
+Huberto,Mollatt,0,56,1961-08-27,31121 Pierstorff Center,2770,Australia,NSW,Programmer IV,,82,7,Mass Customer,14,0,1
+Georgi,,0,47,1970-01-14,59 Garrison Terrace,3215,Australia,VIC,Assistant Manager,Manufacturing,29,4,High Net Worth,11,0,0
+Adolpho,Bellerby,0,73,1944-10-25,2763 Buhler Circle,4305,Australia,QLD,VP Sales,Financial Services,46,4,High Net Worth,13,0,1
+Kelsey,Hatt,1,51,1966-06-27,309 Maple Wood Pass,3930,Australia,VIC,Senior Sales Associate,Financial Services,69,6,High Net Worth,8,0,0
+Lucien,,0,51,1966-09-14,777 Fairfield Court,4305,Australia,QLD,,Financial Services,83,3,High Net Worth,19,0,1
+Ariel,McCloid,0,23,1994-03-13,99 Quincy Parkway,3630,Australia,VIC,Human Resources Manager,,4,1,High Net Worth,6,0,1
+Bevvy,Openshaw,1,42,1975-06-15,902 Westend Lane,2318,Australia,NSW,Staff Scientist,,68,3,Affluent Customer,10,0,1
+Alexina,Mabley,1,42,1975-10-12,9 Rieder Junction,2573,Australia,NSW,Web Designer IV,Manufacturing,72,9,Mass Customer,10,0,1
+Dawn,Pyffe,1,52,1965-05-28,734 Veith Way,3155,Australia,VIC,Media Manager III,Retail,56,8,Mass Customer,11,0,0
+Claudette,Renackowna,1,21,1996-02-11,0800 Dahle Alley,2148,Australia,NSW,Administrative Officer,Manufacturing,55,8,Mass Customer,2,0,0
+Elianora,Poolton,1,73,1944-06-14,5 Macpherson Drive,3134,Australia,VIC,Programmer II,,15,9,Mass Customer,21,0,1
+Park,,0,40,1977-11-08,07 Boyd Drive,4350,Australia,QLD,Nurse Practicioner,IT,39,7,Affluent Customer,14,0,0
+Anthony,Lindstrom,0,20,1997-11-01,427 Oak Avenue,2205,Australia,NSW,Geologist IV,Financial Services,86,10,Affluent Customer,10,0,1
+Liane,Poizer,1,65,1952-05-05,390 Express Plaza,2076,Australia,NSW,Analyst Programmer,Property,59,11,High Net Worth,13,0,0
+Romonda,Hallt,1,57,1960-05-09,703 Ludington Plaza,2480,Australia,NSW,Operator,,69,4,Affluent Customer,15,0,0
+Sula,Thomann,1,28,1989-03-17,7 Dayton Circle,2160,Australia,NSW,Assistant Manager,,56,9,Mass Customer,6,0,0
+Renell,Earley,1,63,1954-10-21,79 Manufacturers Plaza,4171,Australia,QLD,Compensation Analyst,Financial Services,5,5,Mass Customer,11,0,1
+Cliff,Philipsson,0,50,1967-02-02,600 Artisan Drive,3149,Australia,VIC,Structural Analysis Engineer,Argiculture,82,10,Mass Customer,16,0,0
+Clevey,Aisthorpe,0,41,1976-09-20,0 Veith Way,2009,Australia,NSW,Software Consultant,,27,9,Mass Customer,8,0,1
+Cariotta,,1,43,1974-08-19,2336 Continental Point,2527,Australia,NSW,Assistant Media Planner,Entertainment,10,7,Affluent Customer,17,0,1
+George,Jose,0,57,1960-12-19,535 Corben Point,4680,Australia,QLD,Payment Adjustment Coordinator,Retail,68,4,High Net Worth,20,0,1
+Kissiah,Foat,1,42,1975-09-11,1690 Forster Place,2281,Australia,NSW,Graphic Designer,,30,9,Mass Customer,19,0,1
+Milty,Brauninger,0,72,1945-07-10,54 6th Trail,2640,Australia,NSW,Payment Adjustment Coordinator,,13,7,High Net Worth,11,0,0
+Killian,Nettles,0,37,1980-09-01,16 Pepper Wood Junction,3803,Australia,VIC,Marketing Assistant,,44,7,Affluent Customer,4,0,0
+Fredia,Favelle,1,43,1974-08-29,4 Arapahoe Terrace,4014,Australia,QLD,Teacher,,94,8,Mass Customer,19,0,1
+Katleen,Arnoult,1,41,1976-11-24,540 Farragut Avenue,2066,Australia,NSW,VP Product Management,Manufacturing,6,9,Mass Customer,13,0,1
+Gaultiero,Fibbens,0,37,1980-03-14,938 Bartillon Hill,2035,Australia,NSW,Help Desk Technician,,41,11,Affluent Customer,9,0,0
+Inglebert,Aspinal,0,44,1973-10-13,612 Annamark Center,2176,Australia,NSW,Financial Analyst,Financial Services,4,8,Mass Customer,11,0,0
+Jammal,Devenny,0,18,1999-05-14,18 Sage Plaza,3152,Australia,VIC,Marketing Manager,Retail,57,9,High Net Worth,12,0,0
+Adriane,Richardson,1,41,1976-03-10,4 Randy Street,3070,Australia,VIC,Data Coordiator,Manufacturing,81,8,High Net Worth,9,0,0
+Jodi,Lermit,1,63,1954-01-30,05 Corry Center,4021,Australia,QLD,,Health,94,2,Mass Customer,10,0,1
+Emelia,Ackwood,1,29,1988-09-30,1 South Street,4183,Australia,QLD,Senior Cost Accountant,Financial Services,72,9,Mass Customer,10,0,1
+Andee,Huke,1,46,1971-06-28,4810 Kim Park,3858,Australia,VIC,,Manufacturing,91,2,Mass Customer,9,0,0
+Isa,Fominov,0,16,2001-06-21,80388 Ryan Place,2010,Australia,NSW,Physical Therapy Assistant,,75,9,Mass Customer,5,0,1
+Zabrina,Margram,1,53,1964-05-15,1092 Kinsman Parkway,4053,Australia,QLD,,Manufacturing,87,8,High Net Worth,11,0,1
+Maddalena,Angood,1,18,1999-07-28,1 Bluejay Court,2320,Australia,NSW,,Manufacturing,79,4,Affluent Customer,12,0,0
+Sofie,Worsfold,1,63,1954-10-06,7 Maple Wood Plaza,4125,Australia,QLD,Environmental Tech,Retail,87,6,Mass Customer,9,0,1
+Elmira,Vasilyev,1,66,1951-10-14,12 Eastlawn Terrace,2007,Australia,NSW,Senior Quality Engineer,Manufacturing,33,9,High Net Worth,12,0,0
+Free,Rowland,0,61,1956-05-17,24929 Spaight Junction,3796,Australia,VIC,,,42,8,Mass Customer,12,0,1
+Worthington,Cohane,0,26,1991-01-23,846 Daystar Lane,2000,Australia,NSW,Chief Design Engineer,Entertainment,60,12,High Net Worth,2,0,0
+Bailey,Bereford,0,67,1950-09-30,36 Golf Course Circle,2444,Australia,NSW,Senior Sales Associate,Argiculture,44,6,Affluent Customer,11,0,1
+Perry,Whitehurst,0,37,1980-05-29,0 Nelson Crossing,3155,Australia,VIC,Structural Engineer,Manufacturing,79,7,High Net Worth,8,0,1
+Antony,Tuma,0,63,1954-03-10,93264 Almo Plaza,3078,Australia,VIC,Environmental Tech,Telecommunications,11,10,High Net Worth,13,0,1
+Corene,Hallgate,1,53,1964-11-06,2109 Shoshone Court,3103,Australia,VIC,,Financial Services,26,12,Mass Customer,14,0,1
+Nico,Chadwick,0,64,1953-05-24,355 Roxbury Lane,3190,Australia,VIC,Research Assistant IV,Financial Services,97,8,Affluent Customer,13,0,0
+Joline,Skipperbottom,1,45,1972-06-27,2 Warrior Crossing,2161,Australia,NSW,Desktop Support Technician,,59,9,High Net Worth,9,0,0
+Ivy,Farr,1,44,1973-07-03,08470 Kingsford Lane,2120,Australia,NSW,Office Assistant IV,IT,56,11,High Net Worth,19,0,0
+Dallas,Lavalde,1,19,1998-12-19,16898 Donald Plaza,2323,Australia,NSW,Product Engineer,,18,4,Mass Customer,12,0,0
+Amabel,,1,36,1981-09-14,3128 Mallory Pass,2144,Australia,NSW,Chief Design Engineer,Financial Services,71,6,Mass Customer,9,0,1
+Hilario,McCulloch,0,31,1986-01-10,799 Luster Road,3051,Australia,VIC,Physical Therapy Assistant,Retail,61,8,Mass Customer,8,0,0
+Jim,Haddrell,0,62,1955-04-08,53 Dryden Trail,2358,Australia,NSW,Associate Professor,Financial Services,55,3,Mass Customer,9,0,0
+Jacobo,Mucklow,0,65,1952-12-04,5512 Ronald Regan Hill,3122,Australia,VIC,Computer Systems Analyst I,Financial Services,62,8,High Net Worth,22,0,1
+Gretel,Paschke,1,61,1956-05-29,72 Melrose Street,4074,Australia,QLD,Editor,Financial Services,10,7,Mass Customer,17,0,1
+Jethro,Mertel,0,39,1978-12-10,3460 Dapin Street,2262,Australia,NSW,Software Consultant,Argiculture,16,6,Mass Customer,15,0,1
+Dwain,Hatch,0,23,1994-11-16,5 Hovde Lane,3028,Australia,VIC,Marketing Assistant,Health,62,8,Affluent Customer,15,0,0
+Lucretia,D'Agostini,1,39,1978-12-14,4 Gale Center,3185,Australia,VIC,Database Administrator III,Manufacturing,41,7,High Net Worth,15,0,0
+Claude,Bowstead,1,20,1997-11-29,5263 Stone Corner Crossing,2217,Australia,NSW,Accounting Assistant III,Manufacturing,37,12,Mass Customer,7,0,0
+Donn,MacGregor,0,52,1965-04-22,0439 Mandrake Park,2046,Australia,NSW,Civil Engineer,Manufacturing,80,10,High Net Worth,5,0,0
+Laurel,Devennie,1,41,1976-09-25,069 Hoard Pass,4352,Australia,QLD,VP Product Management,Manufacturing,78,5,Affluent Customer,13,0,0
+Elvira,Darthe,1,42,1975-04-08,89 Green Ridge Point,2168,Australia,NSW,Accounting Assistant I,Financial Services,10,9,Affluent Customer,16,0,0
+Angie,Tansley,0,67,1950-11-30,8 Cardinal Junction,2444,Australia,NSW,VP Sales,Manufacturing,68,7,Mass Customer,8,0,0
+Terrence,Dalligan,0,19,1998-02-19,240 Main Hill,3200,Australia,VIC,Chemical Engineer,Manufacturing,60,6,High Net Worth,2,0,1
+Katy,Crooke,1,40,1977-06-30,67081 Burrows Center,2111,Australia,NSW,Food Chemist,Health,0,12,Mass Customer,13,0,0
+Sammy,Borsi,1,45,1972-04-27,0 Kipling Way,2289,Australia,NSW,Accountant III,Financial Services,99,7,Mass Customer,5,0,0
+Morganica,Ainsbury,1,44,1973-01-06,1 Raven Way,2151,Australia,NSW,Senior Editor,Entertainment,37,10,High Net Worth,9,0,1
+Nils,Champion,0,33,1984-07-06,261 Holy Cross Park,2750,Australia,NSW,Programmer III,Retail,69,9,Affluent Customer,13,0,0
+Beverlee,Querree,1,26,1991-04-21,891 Ohio Terrace,2075,Australia,NSW,Marketing Manager,Financial Services,42,12,High Net Worth,12,0,1
+Cami,Eitter,1,38,1979-01-03,1408 Hovde Circle,3081,Australia,VIC,Professor,Manufacturing,34,9,High Net Worth,11,0,1
+Reiko,Degenhardt,1,41,1976-01-16,50897 Northfield Road,4280,Australia,QLD,Financial Analyst,Financial Services,83,6,High Net Worth,5,0,1
+Cord,Dunsmore,0,18,1999-04-21,596 Boyd Park,4301,Australia,QLD,Internal Auditor,Manufacturing,12,3,Mass Customer,13,0,1
+Gabey,Kennicott,1,59,1958-05-14,8 Fordem Place,2322,Australia,NSW,Developer I,Financial Services,55,6,Affluent Customer,17,0,0
+Jacqui,Devey,1,22,1995-10-01,656 Kennedy Crossing,2261,Australia,NSW,Analyst Programmer,Financial Services,79,8,High Net Worth,13,0,1
+Byrom,Ramas,0,24,1993-11-02,2 Jackson Place,2528,Australia,NSW,Help Desk Technician,Manufacturing,23,7,High Net Worth,12,0,0
+Worthington,Ahmed,0,45,1972-03-24,39408 Manufacturers Road,3335,Australia,VIC,Senior Cost Accountant,Financial Services,79,3,High Net Worth,13,0,0
+Chico,Dye,0,23,1994-02-04,168 Schlimgen Center,2526,Australia,NSW,Speech Pathologist,Manufacturing,46,9,High Net Worth,13,0,0
+Davidde,Cockroft,0,70,1947-04-21,8 Kim Avenue,2158,Australia,NSW,Geological Engineer,Manufacturing,70,12,High Net Worth,8,0,0
+Charlie,Dmych,0,67,1950-03-31,920 Cambridge Way,2263,Australia,NSW,Account Coordinator,Manufacturing,60,6,High Net Worth,13,0,0
+Donn,Chaney,0,66,1951-01-29,4 Schlimgen Trail,4701,Australia,QLD,Research Assistant II,,15,3,Mass Customer,13,0,0
+Kamila,Parsonage,1,63,1954-03-08,31 Mccormick Court,4131,Australia,QLD,,Property,80,8,Mass Customer,5,0,0
+Barth,Sapshed,0,23,1994-06-16,65 Milwaukee Lane,4520,Australia,QLD,Executive Secretary,Financial Services,4,10,Mass Customer,13,0,1
+Padriac,Collacombe,0,50,1967-04-07,76 Mendota Park,2090,Australia,NSW,Software Consultant,Health,67,10,Affluent Customer,13,0,0
+Olive,Mozzi,1,62,1955-07-06,26667 Rigney Place,2567,Australia,NSW,Account Representative IV,Retail,87,9,Affluent Customer,20,0,1
+Benedict,Rosas,0,62,1955-11-25,898 Muir Court,2142,Australia,NSW,Actuary,Financial Services,73,6,High Net Worth,15,0,1
+Virginia,De Antoni,1,53,1964-03-14,88093 Pierstorff Plaza,2030,Australia,NSW,Executive Secretary,Telecommunications,17,10,High Net Worth,12,0,1
+Nicolas,O'Donnell,0,31,1986-09-25,3319 Anthes Crossing,3177,Australia,VIC,Internal Auditor,,40,7,Mass Customer,14,0,1
+Oswald,MacCarlich,0,26,1991-11-24,16 Mosinee Place,4717,Australia,QLD,Assistant Media Planner,Entertainment,81,1,Mass Customer,14,0,0
+Ailyn,Howgate,1,16,2001-09-27,197 Northport Plaza,4213,Australia,QLD,Electrical Engineer,Manufacturing,66,7,Mass Customer,2,0,1
+Karol,Salthouse,1,49,1968-07-29,10236 Mifflin Avenue,2570,Australia,NSW,Research Assistant III,Financial Services,53,8,Mass Customer,18,0,1
+Esdras,Birchett,0,67,1950-12-09,5287 Clarendon Plaza,2258,Australia,NSW,Assistant Media Planner,Entertainment,81,9,Mass Customer,21,0,1
+Wilfrid,Gertray,0,75,1942-08-23,38407 Sutteridge Circle,2766,Australia,NSW,Accounting Assistant I,Financial Services,1,8,Mass Customer,16,0,0
+Charmain,Styles,1,52,1965-02-25,423 Holy Cross Lane,3029,Australia,VIC,Programmer Analyst I,Property,49,7,High Net Worth,18,0,1
+Harlene,Nono,2,45,,0307 Namekagon Crossing,2170,Australia,NSW,Human Resources Manager,IT,69,7,Mass Customer,12,0,0
+Kirsteni,Gritskov,1,19,1998-05-12,743 Stuart Terrace,2560,Australia,NSW,,,66,7,Mass Customer,4,0,0
+Bobby,Summersby,0,74,1943-10-27,1478 Oak Valley Park,3350,Australia,VIC,Sales Associate,Financial Services,90,2,Affluent Customer,7,0,0
+Shepherd,Dutchburn,0,41,1976-08-12,8970 Anhalt Junction,2160,Australia,NSW,Senior Sales Associate,Financial Services,33,9,High Net Worth,9,0,1
+Berenice,Kaesmakers,1,23,1994-10-15,563 Waywood Park,2145,Australia,NSW,Sales Representative,Retail,64,9,Mass Customer,11,0,0
+Jesse,Crosio,0,23,1994-04-15,9313 Mayer Street,3133,Australia,VIC,Data Coordiator,,75,8,Mass Customer,13,0,1
+Cordi,Thornton,1,44,1973-01-04,2978 Mccormick Center,2028,Australia,NSW,Structural Engineer,Telecommunications,47,10,Mass Customer,11,0,0
+Debbie,Tillman,1,27,1990-07-06,527 Jay Trail,4551,Australia,QLD,Account Coordinator,Manufacturing,3,8,High Net Worth,13,0,1
+Judie,Pirkis,1,22,1995-07-18,6 Loftsgordon Pass,2111,Australia,NSW,Recruiter,,2,11,Affluent Customer,4,0,1
+Flin,Yoskowitz,0,22,1995-12-17,9940 Manley Drive,2574,Australia,NSW,Registered Nurse,Health,9,7,Mass Customer,11,0,1
+Noel,Sturch,1,66,1951-10-28,0736 West Crossing,3585,Australia,VIC,Environmental Specialist,Health,26,1,Mass Customer,10,0,0
+Letizia,Poore,1,79,1938-08-30,95796 Mcbride Drive,3677,Australia,VIC,Web Developer II,Manufacturing,27,3,Affluent Customer,15,0,0
+Raynard,,0,21,1996-04-13,20187 Loomis Court,4132,Australia,QLD,Statistician III,Health,32,6,Affluent Customer,14,0,0
+Kiley,Grunder,0,23,1994-04-17,17393 Colorado Hill,4006,Australia,QLD,Cost Accountant,Financial Services,95,8,Affluent Customer,1,0,1
+Ethelred,Sissel,0,43,1974-12-25,65 Rutledge Parkway,2539,Australia,NSW,Programmer Analyst IV,Health,83,8,High Net Worth,18,0,0
+Dena,Pabst,1,30,1987-04-20,02023 Loeprich Drive,3037,Australia,VIC,Account Executive,Manufacturing,39,7,High Net Worth,17,0,1
+Wyndham,Woolford,0,38,1979-10-22,9107 Pine View Plaza,3977,Australia,VIC,Engineer IV,Manufacturing,1,6,Mass Customer,10,0,0
+Rochette,Haddacks,1,21,1996-05-10,822 Di Loreto Junction,3020,Australia,VIC,Tax Accountant,Retail,44,8,Affluent Customer,13,0,1
+Jamal,Dudgeon,0,52,1965-02-09,2712 Namekagon Crossing,3029,Australia,VIC,Mechanical Systems Engineer,Financial Services,83,5,Mass Customer,7,0,0
+Levin,Coxen,0,62,1955-10-22,32 Hazelcrest Court,2753,Australia,NSW,Accountant I,Property,13,8,Mass Customer,20,0,0
+Marinna,Kauschke,1,44,1973-03-15,9 Forster Circle,3174,Australia,VIC,Sales Associate,Financial Services,21,3,Affluent Customer,8,0,1
+Kyle,Michie,1,59,1958-07-19,07226 Anzinger Avenue,3032,Australia,VIC,Nurse Practicioner,,6,8,Mass Customer,10,0,1
+Lanie,Cobbold,0,39,1978-12-31,936 Porter Lane,2323,Australia,NSW,Senior Sales Associate,,57,5,Mass Customer,9,0,1
+Gilbert,O'Fallone,0,23,1994-11-07,6 Havey Pass,2126,Australia,NSW,Assistant Media Planner,Entertainment,29,11,High Net Worth,1,0,0
+Gerianne,Kaysor,2,45,,882 Toban Lane,2121,Australia,NSW,Project Manager,IT,15,11,Affluent Customer,5,0,0
+Esther,McOnie,1,78,1939-05-26,844 Forster Place,2096,Australia,NSW,Legal Assistant,,59,12,Mass Customer,14,0,0
+Chaim,Kingdon,0,21,1996-01-21,42590 Bellgrove Court,2097,Australia,NSW,Compensation Analyst,Financial Services,63,9,Affluent Customer,15,0,1
+Anson,Dearnaly,0,20,1997-06-29,6060 Veith Crossing,2103,Australia,NSW,Data Coordiator,Health,68,11,Affluent Customer,11,0,1
+Caitrin,Critten,1,44,1973-01-29,25 Lakeland Point,4113,Australia,QLD,Director of Sales,Manufacturing,45,7,Mass Customer,10,0,1
+Garreth,Minett,0,56,1961-05-23,21667 Randy Crossing,3163,Australia,VIC,Physical Therapy Assistant,,93,7,Affluent Customer,10,0,1
+Rozamond,Sommer,1,51,1966-09-19,608 Dapin Court,3129,Australia,VIC,Operator,IT,27,10,Affluent Customer,12,0,1
+Annabell,Downer,1,62,1955-11-25,8738 Lukken Terrace,2763,Australia,NSW,Budget/Accounting Analyst II,,33,9,Affluent Customer,20,0,0
+Maximilian,Geffen,0,62,1955-07-13,8634 Wayridge Pass,2750,Australia,NSW,Automation Specialist III,Manufacturing,96,8,Mass Customer,20,0,1
+Ajay,Worham,1,38,1979-09-30,5 Homewood Road,2800,Australia,NSW,Computer Systems Analyst I,Manufacturing,80,6,Mass Customer,12,0,1
+Jamison,Cashin,0,47,1970-05-19,7 Dunning Avenue,2477,Australia,NSW,VP Product Management,Health,70,8,Mass Customer,5,0,1
+Dorian,Emery,1,19,1998-08-24,67 Beilfuss Plaza,2168,Australia,NSW,Professor,Manufacturing,94,8,Mass Customer,9,0,1
+Nicol,Swinford,0,41,1976-12-07,976 Roxbury Alley,4157,Australia,QLD,VP Marketing,Property,65,7,High Net Worth,16,0,0
+Agna,Cowpe,1,48,1969-03-05,2 Main Lane,4114,Australia,QLD,,Property,88,3,Mass Customer,7,0,1
+Nev,Prosh,0,67,1950-05-08,6115 Forest Crossing,2148,Australia,NSW,Environmental Tech,Health,29,8,Affluent Customer,17,0,1
+Lucius,Hatchell,0,66,1951-03-19,432 Ronald Regan Court,3782,Australia,VIC,Media Manager II,Retail,37,8,Mass Customer,14,0,1
+Francisca,Pottage,1,60,1957-06-10,8600 Forster Lane,2177,Australia,NSW,Software Engineer II,IT,63,9,Mass Customer,8,0,0
+Farlie,Brookz,0,54,1963-07-31,6692 Independence Way,2070,Australia,NSW,Administrative Assistant I,Health,62,12,Mass Customer,6,0,1
+Mariette,,1,61,1956-07-05,770 Farmco Point,2049,Australia,NSW,Programmer II,Property,47,11,Affluent Customer,17,0,1
+Beverlee,Ungerechts,1,44,1973-10-03,602 Toban Center,4020,Australia,QLD,Civil Engineer,Manufacturing,49,7,Mass Customer,8,0,0
+Nanni,Girodias,1,58,1959-01-08,74 Shopko Pass,2161,Australia,NSW,,Retail,61,9,High Net Worth,16,0,0
+Delcina,Hursey,1,49,1968-12-26,804 Washington Point,4132,Australia,QLD,,Financial Services,22,4,Mass Customer,7,0,1
+Lek,Pimblett,0,62,1955-09-29,97 Merrick Center,2460,Australia,NSW,Product Engineer,Financial Services,88,2,Mass Customer,6,0,1
+Kellyann,Adshad,1,77,1940-06-07,29 Tennyson Alley,2161,Australia,NSW,,,62,9,Mass Customer,22,0,1
+Ewell,Paulusch,0,19,1998-01-15,8194 Lien Street,4032,Australia,QLD,Engineer I,Manufacturing,31,7,Mass Customer,8,0,1
+Madison,Lars,0,50,1967-01-19,9503 New Castle Street,4500,Australia,QLD,Health Coach III,Health,11,9,Mass Customer,19,0,0
+Ardis,Taree,1,57,1960-04-12,0 Emmet Trail,4128,Australia,QLD,Chemical Engineer,Manufacturing,97,9,Affluent Customer,5,0,1
+Wheeler,Godsil,0,24,1993-09-20,7 Spaight Drive,2147,Australia,NSW,Geologist IV,Manufacturing,51,9,Affluent Customer,6,0,1
+Marissa,O'Scandall,1,44,1973-07-13,45000 Randy Court,3199,Australia,VIC,,,17,7,Affluent Customer,7,0,1
+Terrel,Keynd,0,56,1961-04-20,65 David Pass,4221,Australia,QLD,Junior Executive,Manufacturing,30,7,Mass Customer,9,0,0
+Augie,Swallwell,0,78,1939-08-22,7 Golden Leaf Avenue,2400,Australia,NSW,,Property,42,2,Affluent Customer,13,0,1
+Dillon,Bannister,0,72,1945-12-24,43 Dayton Drive,2062,Australia,NSW,Tax Accountant,,7,9,Mass Customer,11,0,0
+Osbourn,Gherardini,0,30,1987-05-01,5 Dryden Road,2782,Australia,NSW,,,43,7,High Net Worth,16,0,1
+Lissa,Gawn,1,55,1962-09-21,14183 Iowa Center,4503,Australia,QLD,Legal Assistant,Health,86,5,Mass Customer,17,0,1
+Leisha,McConway,1,42,1975-10-31,95 Del Mar Court,3175,Australia,VIC,Payment Adjustment Coordinator,Financial Services,3,8,Mass Customer,13,0,1
+Kearney,Cuddehy,0,20,1997-05-18,98 Shoshone Road,4207,Australia,QLD,Marketing Assistant,Retail,88,6,Mass Customer,12,0,0
+Shellysheldon,Bichard,0,63,1954-01-06,7199 Springview Parkway,4503,Australia,QLD,Desktop Support Technician,Financial Services,96,5,Mass Customer,16,0,1
+Reinhard,Oscroft,0,67,1950-03-18,045 Magdeline Court,3690,Australia,VIC,Pharmacist,Health,23,1,High Net Worth,18,0,0
+Menard,Venmore,0,39,1978-04-04,5 Hoard Trail,2197,Australia,NSW,Assistant Professor,Retail,97,10,High Net Worth,8,0,0
+Andree,Breeds,1,63,1954-10-19,93 Scofield Pass,3152,Australia,VIC,Senior Editor,Financial Services,31,6,Affluent Customer,11,0,1
+Kata,Harrop,1,67,1950-05-04,2 Ridgeway Avenue,2196,Australia,NSW,,Retail,70,10,Affluent Customer,13,0,1
+Pierrette,Gummie,1,51,1966-08-04,29 Maple Trail,3143,Australia,VIC,Statistician II,Retail,18,8,Affluent Customer,14,0,0
+Nady,Withinshaw,1,49,1968-02-17,7 Brentwood Circle,4000,Australia,QLD,Database Administrator III,,96,7,High Net Worth,8,0,0
+Demott,Mullaly,0,35,1982-12-15,28 Hazelcrest Drive,2525,Australia,NSW,Help Desk Operator,Property,42,8,Mass Customer,13,0,0
+Wendye,Kleinplatz,1,21,1996-05-28,01 Reindahl Circle,4132,Australia,QLD,Executive Secretary,Manufacturing,48,3,Affluent Customer,14,0,0
+Irvin,Bevans,0,55,1962-07-12,5880 Hauk Street,2046,Australia,NSW,Payment Adjustment Coordinator,Manufacturing,82,11,Mass Customer,12,0,0
+Madella,Marquiss,1,41,1976-10-08,0 Larry Park,3175,Australia,VIC,VP Marketing,,51,8,Affluent Customer,18,0,0
+Austine,Speedy,1,77,1940-05-23,69 Sunfield Terrace,2558,Australia,NSW,Software Engineer II,Argiculture,38,8,High Net Worth,14,0,1
+Wolf,Craft,0,22,1995-07-19,7513 Swallow Drive,2148,Australia,NSW,Database Administrator III,Retail,93,9,Affluent Customer,5,0,1
+Aldin,Newsome,0,36,1981-07-06,058 Morningstar Center,2127,Australia,NSW,Financial Analyst,Financial Services,24,9,Mass Customer,17,0,0
+Sindee,Jasik,1,75,1942-10-21,0689 Melby Park,4030,Australia,QLD,Social Worker,Health,18,9,Mass Customer,15,0,1
+Truman,Arlett,0,59,1958-06-25,3 Spohn Circle,2477,Australia,NSW,Technical Writer,Manufacturing,58,5,High Net Worth,16,0,1
+Gordon,Rewan,0,29,1988-01-07,91 Calypso Trail,2750,Australia,NSW,Chief Design Engineer,,42,8,Mass Customer,5,0,0
+Israel,Brough,0,41,1976-10-29,43863 Victoria Lane,2281,Australia,NSW,,,29,7,Mass Customer,8,0,1
+Leticia,Hovenden,1,20,1997-04-03,54782 Lake View Parkway,3178,Australia,VIC,Mechanical Systems Engineer,Retail,98,9,Mass Customer,1,0,1
+Caritta,Compston,1,59,1958-04-25,48971 Marquette Point,3976,Australia,VIC,Geological Engineer,Manufacturing,86,5,Mass Customer,17,0,1
+Annabelle,Hanwell,1,66,1951-11-28,99 Sherman Parkway,3083,Australia,VIC,Professor,Manufacturing,11,12,High Net Worth,15,0,1
+Darryl,Hovee,1,73,1944-04-28,381 Emmet Terrace,2047,Australia,NSW,Professor,Financial Services,2,12,Mass Customer,19,0,1
+Orly,Nesbitt,1,32,1985-03-25,7 Beilfuss Road,3163,Australia,VIC,Analyst Programmer,Manufacturing,6,6,High Net Worth,14,0,1
+Margette,Gibard,1,75,1942-07-06,37068 Montana Street,2011,Australia,NSW,,Manufacturing,34,7,Affluent Customer,9,0,1
+Nicol,Bertot,1,40,1977-09-11,7 Elgar Hill,3060,Australia,VIC,Financial Advisor,Financial Services,25,5,Affluent Customer,18,0,1
+Nobe,Trowsdale,0,49,1968-07-12,36506 Bartillon Point,3816,Australia,VIC,Community Outreach Specialist,Financial Services,12,3,Mass Customer,16,0,0
+Stephen,Tittershill,0,26,1991-12-21,8 Scott Drive,3150,Australia,VIC,Nurse Practicioner,Financial Services,73,11,High Net Worth,6,0,0
+Giselbert,Pickring,0,58,1959-07-28,653 2nd Park,2766,Australia,NSW,Tax Accountant,Manufacturing,94,8,Affluent Customer,20,0,1
+Shane,Diss,1,37,1980-10-29,22 Shelley Plaza,3198,Australia,VIC,,Financial Services,50,8,High Net Worth,16,0,1
+Lisette,Davers,1,77,1940-10-26,504 Stuart Pass,2130,Australia,NSW,Developer III,Health,59,11,High Net Worth,17,0,0
+Chicky,Sinclar,2,45,,5 Red Cloud Place,3222,Australia,VIC,Operator,IT,43,4,High Net Worth,0,0,1
+Kippar,Whyatt,0,57,1960-01-21,264 Valley Edge Pass,2259,Australia,NSW,,Property,13,7,Mass Customer,10,0,0
+Xenia,Maleck,1,57,1960-02-14,5 Southridge Hill,3029,Australia,VIC,VP Product Management,Telecommunications,41,7,Mass Customer,12,0,0
+Essie,Withur,1,76,1941-02-26,539 Graceland Pass,3444,Australia,VIC,Director of Sales,Financial Services,42,7,High Net Worth,19,0,0
+Cecil,Gant,0,41,1976-07-16,22435 Barnett Court,2145,Australia,NSW,,,52,8,High Net Worth,9,0,1
+Lillis,Eshmade,1,43,1974-10-12,46057 Harbort Hill,4304,Australia,QLD,Structural Analysis Engineer,Financial Services,50,2,Mass Customer,22,0,1
+Ted,Izacenko,0,58,1959-08-01,2 Shasta Place,3130,Australia,VIC,Librarian,Entertainment,3,10,High Net Worth,9,0,0
+Nixie,Shoesmith,1,61,1956-12-04,77608 Donald Center,4516,Australia,QLD,Junior Executive,Retail,45,6,Affluent Customer,12,0,0
+Briana,Trill,1,73,1944-03-18,0433 La Follette Road,2137,Australia,NSW,Health Coach III,Health,5,11,High Net Worth,11,0,0
+Cobbie,Bruyett,0,61,1956-03-19,8593 Prairie Rose Way,2500,Australia,NSW,Associate Professor,,20,8,Mass Customer,20,0,1
+Wrennie,Dwelly,1,77,1940-03-11,179 Carey Terrace,3020,Australia,VIC,Operator,Manufacturing,23,9,Mass Customer,18,0,0
+Sibylla,Kibble,1,55,1962-08-05,3 Ruskin Hill,2122,Australia,NSW,Pharmacist,Health,73,9,High Net Worth,12,0,0
+Kariotta,Naper,1,65,1952-04-07,87 Crescent Oaks Alley,2756,Australia,NSW,VP Sales,Health,8,10,Mass Customer,21,0,0
+Wylie,Huntingdon,0,51,1966-08-11,08822 Duke Road,2763,Australia,NSW,VP Quality Control,Financial Services,99,8,Mass Customer,15,0,0
+Lizbeth,Garvan,1,21,1996-09-06,5 Schurz Street,2141,Australia,NSW,Structural Analysis Engineer,Health,36,9,Mass Customer,4,0,0
+Averil,Ackery,0,47,1970-09-09,344 Darwin Junction,2093,Australia,NSW,Sales Representative,Retail,93,12,Mass Customer,7,0,1
+Myrtie,Ostrich,1,21,1996-06-18,320 Acker Drive,2251,Australia,NSW,VP Quality Control,Property,70,7,Affluent Customer,9,0,1
+Ross,Vidgen,0,70,1947-12-28,2874 Bay Hill,4032,Australia,QLD,VP Sales,Retail,17,9,Affluent Customer,12,0,0
+Sibby,Skinner,1,36,1981-05-05,3 Sunbrook Alley,4178,Australia,QLD,Accountant IV,Manufacturing,25,7,Mass Customer,12,0,1
+Selle,Casper,1,39,1978-03-27,34 Jay Hill,2880,Australia,NSW,Social Worker,Health,98,1,Mass Customer,10,0,1
+Andrew,Froment,0,40,1977-07-19,78 Bluestem Road,3860,Australia,VIC,Office Assistant IV,Retail,58,2,High Net Worth,7,0,0
+Maurizia,Ritmeyer,1,37,1980-04-09,0 Express Lane,2142,Australia,NSW,Teacher,Entertainment,95,6,Mass Customer,3,0,1
+Keenan,Moriarty,0,23,1994-12-23,077 Hansons Point,4075,Australia,QLD,Actuary,Financial Services,67,8,Mass Customer,2,0,1
+Davide,Senten,0,76,1941-02-23,23737 Bartillon Street,2171,Australia,NSW,Accounting Assistant II,Manufacturing,22,9,Mass Customer,11,0,0
+Renie,Fiveash,1,25,1992-10-10,2 Anniversary Trail,4508,Australia,QLD,Occupational Therapist,Health,92,4,High Net Worth,16,0,0
+Willard,Booton,0,79,1938-09-02,05 Ronald Regan Alley,2121,Australia,NSW,,Health,69,9,High Net Worth,7,0,1
+Debby,Balmadier,1,25,1992-06-24,738 Spaight Drive,3216,Australia,VIC,Administrative Assistant II,Financial Services,53,8,Affluent Customer,5,0,1
+Rockie,MacKibbon,0,39,1978-04-20,8 Bunker Hill Court,2298,Australia,NSW,,,42,8,Mass Customer,13,0,1
+Harvey,Dwelley,0,44,1973-08-30,59846 2nd Pass,2077,Australia,NSW,Help Desk Technician,Financial Services,70,9,Affluent Customer,18,0,0
+Patrice,Pariss,0,63,1954-06-15,3745 Thierer Trail,4078,Australia,QLD,VP Accounting,Financial Services,96,5,Mass Customer,9,0,0
+Arman,Yakubov,0,40,1977-10-07,11121 Jackson Crossing,2323,Australia,NSW,VP Quality Control,Property,68,4,High Net Worth,17,0,1
+Gardiner,Gypps,0,26,1991-06-01,1 Elgar Alley,2166,Australia,NSW,VP Product Management,Retail,91,9,Mass Customer,13,0,1
+Cathleen,Le Teve,1,67,1950-11-06,32834 Caliangt Way,4211,Australia,QLD,Recruiting Manager,,75,3,High Net Worth,18,0,0
+Thaddus,Joder,0,60,1957-12-10,27185 Fisk Drive,2290,Australia,NSW,,Manufacturing,31,8,Mass Customer,7,0,0
+Josepha,Clamp,1,56,1961-11-03,2 Harper Junction,2069,Australia,NSW,Marketing Manager,,12,12,High Net Worth,12,0,0
+Jillane,Simion,1,43,1974-07-03,7 Caliangt Street,4209,Australia,QLD,VP Marketing,Manufacturing,8,3,High Net Worth,7,0,0
+Lynnell,Shoesmith,1,36,1981-01-29,5331 Ilene Parkway,2560,Australia,NSW,Occupational Therapist,Health,44,8,High Net Worth,7,0,1
+Mandie,MacAdie,1,43,1974-12-25,1009 Roxbury Point,2110,Australia,NSW,Chief Design Engineer,Telecommunications,39,11,High Net Worth,13,0,0
+Ferdinand,Billie,0,52,1965-09-04,660 Carey Avenue,2759,Australia,NSW,Chemical Engineer,Manufacturing,97,8,Mass Customer,6,0,0
+Suzy,Bussens,1,44,1973-04-29,25 Oneill Alley,4102,Australia,QLD,,Financial Services,44,9,Mass Customer,13,0,0
+Emeline,Vezey,1,64,1953-08-07,2 Golden Leaf Parkway,3759,Australia,VIC,Dental Hygienist,Health,37,7,Affluent Customer,19,0,1
+Cissiee,Baylis,1,66,1951-07-22,18 Dottie Park,2230,Australia,NSW,Cost Accountant,Financial Services,99,11,High Net Worth,16,0,0
+Roldan,Raybould,0,42,1975-11-18,85 Badeau Pass,3158,Australia,VIC,Actuary,Financial Services,27,8,Mass Customer,11,0,0
+Barth,Weare,0,71,1946-08-22,784 Lotheville Court,2541,Australia,NSW,Clinical Specialist,Health,18,5,Mass Customer,8,0,1
+Alta,Pithcock,1,18,1999-11-18,57568 Northview Junction,2141,Australia,NSW,GIS Technical Architect,Financial Services,64,7,Mass Customer,2,0,0
+Marc,Keunemann,0,45,1972-09-04,283 Golf View Lane,2747,Australia,NSW,Dental Hygienist,Health,57,8,Affluent Customer,14,0,1
+Bertine,Smalles,1,34,1983-12-10,7 Johnson Hill,3028,Australia,VIC,VP Quality Control,Financial Services,85,8,Mass Customer,9,0,1
+Wilbert,O'Loughnan,0,34,1983-05-18,22580 Doe Crossing Drive,4055,Australia,QLD,Paralegal,Financial Services,14,9,Mass Customer,6,0,1
+Seymour,Fellibrand,0,46,1971-10-11,96081 Lakewood Hill,4650,Australia,QLD,Structural Analysis Engineer,,28,2,Affluent Customer,18,0,1
+Miran,Runchman,1,42,1975-07-09,6634 Old Gate Parkway,4304,Australia,QLD,Nurse,Retail,47,3,Mass Customer,17,0,0
+Dorotea,Fenwick,1,67,1950-10-12,72 Lukken Crossing,2016,Australia,NSW,Nurse,Financial Services,74,11,High Net Worth,12,0,0
+Jenny,Massy,1,54,1963-10-16,6 Meadow Ridge Pass,2470,Australia,NSW,Project Manager,Telecommunications,82,2,Mass Customer,10,0,1
+Hyman,Petrolli,0,52,1965-09-09,290 Menomonie Circle,3782,Australia,VIC,Senior Sales Associate,,8,7,Affluent Customer,4,0,1
+Beatrix,McGivena,1,51,1966-10-18,6 Sutherland Parkway,4879,Australia,QLD,Assistant Manager,Health,26,10,Mass Customer,9,0,1
+Nalani,Hallad,1,18,1999-11-30,1 Oriole Crossing,3184,Australia,VIC,Environmental Specialist,Health,15,9,Affluent Customer,9,0,1
+Inglebert,Butland,0,51,1966-01-30,51837 Canary Center,2114,Australia,NSW,Actuary,Financial Services,71,9,Mass Customer,7,0,1
+Brendis,Pineaux,0,39,1978-01-15,43030 Carberry Way,2560,Australia,NSW,Mechanical Systems Engineer,Manufacturing,12,4,Mass Customer,5,0,0
+Jaimie,Lancastle,0,45,1972-10-23,0 Bay Drive,2750,Australia,NSW,VP Marketing,,71,8,Mass Customer,5,0,1
+Glendon,Malham,0,52,1965-08-21,6 Anzinger Pass,3030,Australia,VIC,Web Designer I,Manufacturing,36,6,Mass Customer,17,0,0
+Morganica,Bentke,1,40,1977-01-03,19453 Ramsey Point,3067,Australia,VIC,Marketing Assistant,IT,40,11,Affluent Customer,21,0,1
+Calida,Schaben,1,48,1969-03-06,1861 Chive Court,2199,Australia,NSW,Recruiting Manager,,54,9,Mass Customer,10,0,1
+Hallsy,Voysey,0,47,1970-03-11,9 Westerfield Point,3437,Australia,VIC,Business Systems Development Analyst,,83,9,Mass Customer,16,0,0
+Lanny,Currall,0,20,1997-10-23,3 Redwing Center,2209,Australia,NSW,Developer IV,,37,10,High Net Worth,9,0,1
+Son,Varney,0,24,1993-11-02,189 Bayside Court,2480,Australia,NSW,Analog Circuit Design manager,Property,75,7,Mass Customer,10,0,1
+Bartram,Caltun,0,61,1956-09-15,174 Farwell Point,2121,Australia,NSW,Internal Auditor,Health,28,11,Affluent Customer,12,0,1
+Halette,Borsi,1,56,1961-12-10,356 Pennsylvania Point,2128,Australia,NSW,Research Nurse,Health,60,9,Affluent Customer,16,0,1
+Killie,Densie,0,20,1997-03-28,62 Dryden Junction,2042,Australia,NSW,Environmental Tech,IT,87,10,Mass Customer,11,0,1
+Mandi,Adamsson,1,25,1992-04-07,25 Westerfield Road,4165,Australia,QLD,Programmer Analyst I,Manufacturing,40,5,Mass Customer,5,0,1
+Kylila,Basezzi,1,72,1945-06-11,64 Armistice Point,4217,Australia,QLD,Assistant Manager,,94,9,Mass Customer,9,0,1
+Yardley,Matten,0,26,1991-03-06,74 Everett Court,4408,Australia,QLD,Junior Executive,Financial Services,35,2,Mass Customer,15,0,0
+Shepperd,Leonards,0,36,1981-04-14,38 Nobel Lane,2147,Australia,NSW,Chemical Engineer,Manufacturing,17,9,Mass Customer,5,0,1
+Hamel,Curzey,0,27,1990-04-04,6936 Homewood Avenue,4000,Australia,QLD,Structural Engineer,,11,7,Mass Customer,9,0,1
+Fancie,Woofendell,1,51,1966-09-17,8 Crowley Center,4212,Australia,QLD,Research Nurse,Health,68,7,Mass Customer,6,0,1
+Zebulen,Emtage,0,54,1963-09-01,44 Ronald Regan Parkway,4352,Australia,QLD,Senior Developer,,52,7,High Net Worth,17,0,1
+Micheil,Fleote,0,42,1975-09-20,174 Lotheville Crossing,2093,Australia,NSW,Civil Engineer,Manufacturing,48,9,High Net Worth,16,0,0
+Cecily,Faircley,1,70,1947-06-12,8 Bluejay Road,4301,Australia,QLD,Accountant IV,IT,42,1,Affluent Customer,19,0,1
+Glory,Chilcott,1,78,1939-09-09,4286 Rowland Circle,4165,Australia,QLD,,Telecommunications,49,5,High Net Worth,9,0,0
+Sinclair,Wark,0,43,1974-02-21,44 Thompson Center,2134,Australia,NSW,Financial Analyst,Financial Services,68,9,Mass Customer,11,0,1
+Tomaso,Horsley,0,16,2001-04-16,70360 Onsgard Plaza,3977,Australia,VIC,Junior Executive,Financial Services,97,6,Mass Customer,10,0,1
+Gilli,Christophers,1,69,1948-03-02,53870 Jay Pass,4575,Australia,QLD,Database Administrator IV,Property,70,9,Affluent Customer,17,0,1
+Errick,Burgin,0,19,1998-08-19,417 Killdeer Alley,2650,Australia,NSW,Professor,Entertainment,87,2,Mass Customer,11,0,0
+Damian,Renard,0,41,1976-07-19,28 Prentice Trail,2155,Australia,NSW,Software Consultant,Retail,43,10,Affluent Customer,8,0,0
+Agnola,Batterson,1,37,1980-01-03,216 Bultman Park,4305,Australia,QLD,Physical Therapy Assistant,Financial Services,86,3,Mass Customer,7,0,0
+Riki,Wandtke,1,55,1962-05-12,435 Mitchell Street,4115,Australia,QLD,Librarian,Entertainment,25,7,Mass Customer,5,0,1
+Mikol,Eck,0,42,1975-07-25,15621 Twin Pines Crossing,4130,Australia,QLD,VP Marketing,Financial Services,99,9,Mass Customer,21,0,1
+Phyllis,Wibberley,1,46,1971-01-10,03 Bellgrove Avenue,2066,Australia,NSW,Web Designer IV,Retail,7,12,Affluent Customer,11,0,0
+Burt,Vasechkin,0,67,1950-04-15,89100 Rusk Crossing,3338,Australia,VIC,Senior Sales Associate,Retail,33,2,Mass Customer,20,0,1
+Adriana,Saundercock,2,45,,82 Gina Junction,3806,Australia,VIC,Nurse,IT,20,7,High Net Worth,14,0,1
+Trudie,Phinnessy,1,57,1960-07-04,077 Dennis Lane,3030,Australia,VIC,,Financial Services,45,9,Mass Customer,15,0,1
+Frederigo,Cribbott,0,52,1965-03-15,42280 Namekagon Crossing,2140,Australia,NSW,Social Worker,Health,35,8,Mass Customer,16,0,0
+Glenda,Eliet,1,43,1974-06-17,1 Fordem Way,3844,Australia,VIC,Quality Control Specialist,,87,7,Mass Customer,12,0,0
+Darb,,0,48,1969-06-04,780 Bonner Pass,4034,Australia,QLD,Food Chemist,Health,80,5,Affluent Customer,10,0,0
+Cal,Van den Velde,0,21,1996-03-18,77916 Moland Park,3174,Australia,VIC,Senior Sales Associate,Financial Services,22,6,Affluent Customer,6,0,1
+Stephani,Sidsaff,1,44,1973-09-29,00 Southridge Avenue,2036,Australia,NSW,Senior Quality Engineer,Financial Services,32,11,Mass Customer,6,0,1
+Meade,Bampton,0,35,1982-04-25,7870 Stuart Crossing,2090,Australia,NSW,Health Coach III,Health,69,7,High Net Worth,17,0,0
+Flore,Cashen,1,39,1978-06-21,4 Vera Pass,2640,Australia,NSW,,Health,79,4,High Net Worth,17,0,0
+Leighton,Firbanks,0,44,1973-12-22,7234 Sycamore Pass,4178,Australia,QLD,Teacher,Retail,51,3,Affluent Customer,21,0,0
+Petr,Westman,0,30,1987-11-02,98454 Dapin Park,4556,Australia,QLD,Nurse Practicioner,Property,5,7,Mass Customer,7,0,0
+Yorgos,Dewhurst,0,67,1950-09-09,4 Talmadge Road,4701,Australia,QLD,Software Consultant,Argiculture,6,1,Affluent Customer,16,0,0
+Simmonds,Bapty,0,15,2002-01-04,47 Susan Park,2025,Australia,NSW,Junior Executive,Financial Services,52,12,Affluent Customer,8,0,0
+Hagen,MacCarter,0,34,1983-02-08,7 Ramsey Trail,3172,Australia,VIC,,Entertainment,93,9,Affluent Customer,15,0,1
+Cazzie,Stanwix,0,57,1960-10-01,6026 Mallory Drive,4561,Australia,QLD,Research Assistant IV,Manufacturing,37,7,High Net Worth,11,0,1
+Geoff,Gwillym,0,18,1999-02-22,1 Eliot Plaza,2323,Australia,NSW,Clinical Specialist,Health,89,4,Affluent Customer,8,0,0
+Simonette,,1,27,1990-04-06,66 Hoffman Court,2232,Australia,NSW,VP Product Management,Manufacturing,4,8,Affluent Customer,6,0,1
+Deirdre,Sturgeon,1,52,1965-12-22,7 Sycamore Terrace,2232,Australia,NSW,VP Sales,Retail,11,10,Mass Customer,9,0,1
+Andrea,Pendle,1,79,1938-08-05,31281 Meadow Valley Way,4500,Australia,QLD,,,86,6,High Net Worth,13,0,1
+Juliann,Siemantel,1,70,1947-12-15,28 Parkside Park,3046,Australia,VIC,Librarian,Entertainment,86,8,Mass Customer,22,0,0
+Janaye,Eade,1,33,1984-12-13,2782 Northridge Street,2420,Australia,NSW,Chief Design Engineer,Health,23,3,Affluent Customer,4,0,0
+Dylan,Stranio,0,64,1953-04-02,3662 Beilfuss Lane,2170,Australia,NSW,Project Manager,Manufacturing,47,8,High Net Worth,9,0,1
+Mel,Rochford,1,28,1989-07-23,56334 Vera Crossing,3013,Australia,VIC,Assistant Professor,Retail,11,9,Mass Customer,4,0,1
+Elvin,Trayhorn,0,24,1993-06-02,79 Sheridan Point,2231,Australia,NSW,VP Accounting,Financial Services,46,10,High Net Worth,10,0,0
+Dmitri,Viant,2,45,,95960 Warner Parkway,3842,Australia,VIC,Paralegal,Financial Services,62,1,Affluent Customer,5,0,0
+Sonni,Milligan,1,29,1988-03-05,04769 Dahle Plaza,3170,Australia,VIC,Budget/Accounting Analyst III,Retail,73,9,Mass Customer,14,0,1
+Kellina,Haygreen,1,51,1966-01-19,5731 Bunker Hill Lane,2046,Australia,NSW,Librarian,Entertainment,38,10,Affluent Customer,18,0,0
+Yuma,Dennick,0,45,1972-11-10,89244 Macpherson Trail,2528,Australia,NSW,,Manufacturing,40,8,Mass Customer,6,0,1
+Ashleigh,,1,21,1996-04-05,922 Utah Avenue,3204,Australia,VIC,Budget/Accounting Analyst III,,46,12,Mass Customer,6,0,1
+Therese,Brotherhood,1,36,1981-07-28,25044 Bay Avenue,2042,Australia,NSW,Food Chemist,Health,30,10,Mass Customer,10,0,0
+Pansie,Beccero,1,53,1964-07-07,315 Hudson Road,4818,Australia,QLD,Software Test Engineer I,Financial Services,35,5,Affluent Customer,10,0,1
+Reinaldos,Simmig,0,62,1955-01-15,6112 Mariners Cove Park,3147,Australia,VIC,Nurse Practicioner,Manufacturing,55,10,High Net Worth,8,0,0
+Calhoun,Mussington,0,25,1992-10-13,176 Fallview Plaza,2019,Australia,NSW,Dental Hygienist,Health,98,9,Mass Customer,12,0,0
+Winn,Wells,0,23,1994-04-12,544 Pawling Road,2230,Australia,NSW,Analyst Programmer,Manufacturing,66,10,Affluent Customer,9,0,0
+Rafi,Brettelle,0,61,1956-08-12,11 Brickson Park Alley,2166,Australia,NSW,Operator,Health,89,10,High Net Worth,6,0,0
+Fey,,1,60,1957-09-04,77 Paget Park,3147,Australia,VIC,Research Nurse,Health,48,12,High Net Worth,11,0,1
+Verne,Loalday,0,35,1982-03-20,598 Memorial Place,2082,Australia,NSW,Marketing Assistant,IT,1,10,High Net Worth,7,0,0
+Eleonora,Wiszniewski,1,37,1980-04-23,6227 Quincy Terrace,4740,Australia,QLD,Financial Advisor,Financial Services,49,2,Affluent Customer,9,0,0
+Fayre,Brannigan,1,25,1992-10-13,31351 Sunbrook Place,2234,Australia,NSW,Geological Engineer,Manufacturing,32,10,Mass Customer,9,0,1
+Eachelle,Noirel,1,43,1974-01-26,80 Schiller Center,2292,Australia,NSW,Registered Nurse,Health,93,6,Affluent Customer,11,0,1
+Carl,Troyes,0,44,1973-03-12,1217 Melody Alley,3109,Australia,VIC,Associate Professor,Property,4,10,Mass Customer,7,0,0
+Cordie,Brankley,1,63,1954-09-21,46 Westerfield Place,2195,Australia,NSW,Librarian,Entertainment,79,6,High Net Worth,18,0,0
+Jackie,Pays,0,62,1955-11-09,75024 Ronald Regan Hill,2135,Australia,NSW,Developer I,Health,21,12,Mass Customer,9,0,0
+Carroll,Schlagman,1,66,1951-08-25,15 Fisk Road,2099,Australia,NSW,Clinical Specialist,Health,61,9,Affluent Customer,13,0,0
+Frans,Idale,0,48,1969-10-03,96 Hermina Place,4350,Australia,QLD,Nurse,Manufacturing,1,2,Mass Customer,10,0,0
+Amara,Clow,1,51,1966-11-17,99376 Namekagon Street,3101,Australia,VIC,Biostatistician IV,Financial Services,47,12,Mass Customer,13,0,1
+Anthony,Morison,0,79,1938-06-08,276 Derek Circle,2759,Australia,NSW,General Manager,Health,7,9,Mass Customer,12,0,0
+Cherye,Stanfield,1,36,1981-07-05,56766 Mariners Cove Place,2256,Australia,NSW,Environmental Tech,Manufacturing,0,9,Affluent Customer,13,0,0
+Ansell,Tolhurst,0,68,1949-08-11,13 Montana Place,2232,Australia,NSW,Chemical Engineer,Manufacturing,77,10,Affluent Customer,22,0,0
+Erminie,Rabidge,1,35,1982-03-09,1969 Melody Lane,2170,Australia,NSW,,Manufacturing,64,8,High Net Worth,17,0,0
+Rosene,Beckey,1,43,1974-05-21,02463 Portage Center,2107,Australia,NSW,Account Executive,Health,25,11,Mass Customer,14,0,1
+Darlleen,Shalcras,1,37,1980-09-14,383 Graceland Avenue,2010,Australia,NSW,Health Coach I,Health,77,10,Mass Customer,11,0,0
+Bryon,Goundry,0,66,1951-02-05,005 Kensington Street,4165,Australia,QLD,Marketing Manager,Manufacturing,79,5,Mass Customer,21,0,0
+Sherwin,Minocchi,0,70,1947-07-13,1 Alpine Crossing,2536,Australia,NSW,Project Manager,,71,8,Mass Customer,11,0,1
+Luci,Dyter,1,65,1952-05-30,2 Namekagon Trail,3981,Australia,VIC,Software Test Engineer I,Manufacturing,12,7,High Net Worth,20,0,0
+Sloan,Pudney,0,53,1964-11-10,6771 Pleasure Terrace,4557,Australia,QLD,Junior Executive,Financial Services,83,9,Affluent Customer,16,0,0
+Otes,Elegood,0,77,1940-11-25,2632 Del Mar Point,2226,Australia,NSW,Programmer III,Financial Services,67,11,High Net Worth,21,0,0
+Davie,Blay,0,32,1985-12-19,7021 5th Alley,2770,Australia,NSW,Financial Analyst,Financial Services,94,7,Mass Customer,8,0,0
+Dorolice,Osmon,1,56,1961-01-15,602 Clove Center,3046,Australia,VIC,,Financial Services,46,6,Affluent Customer,15,0,0
+Meade,McReedy,1,49,1968-11-23,04153 Johnson Point,2193,Australia,NSW,Safety Technician IV,Financial Services,94,10,Affluent Customer,9,0,1
+Rikki,Chaffey,0,72,1945-06-11,9 Spohn Way,4127,Australia,QLD,Chemical Engineer,Manufacturing,69,1,Mass Customer,20,0,0
+Adria,Van den Velde,1,39,1978-07-10,6030 Becker Plaza,2261,Australia,NSW,Nuclear Power Engineer,Manufacturing,39,7,Affluent Customer,9,0,1
+Dmitri,,0,26,1991-02-06,4 Mallory Pass,3690,Australia,VIC,,Financial Services,72,4,High Net Worth,15,0,1
+Maddalena,Hencke,1,65,1952-12-09,64037 Swallow Crossing,4170,Australia,QLD,Help Desk Operator,,61,5,High Net Worth,22,0,0
+Rand,Winchcum,0,17,2000-04-10,4594 Jackson Hill,2146,Australia,NSW,Software Consultant,,34,7,Affluent Customer,3,0,0
+Rowen,Sollas,0,57,1960-04-23,4 Anzinger Street,4556,Australia,QLD,Dental Hygienist,Health,38,8,Mass Customer,5,0,0
+Boothe,Hayselden,0,77,1940-05-18,33 Pond Point,2291,Australia,NSW,Computer Systems Analyst III,Health,42,10,Mass Customer,17,0,1
+Noak,Sleany,0,52,1965-05-04,1 Roth Plaza,3121,Australia,VIC,Budget/Accounting Analyst I,Financial Services,1,10,Affluent Customer,17,0,0
+Callean,Wass,0,29,1988-12-15,0593 Stoughton Center,3073,Australia,VIC,GIS Technical Architect,Financial Services,65,8,Affluent Customer,14,0,0
+Keelby,Sudlow,0,29,1988-09-01,8042 Cherokee Court,3163,Australia,VIC,Marketing Assistant,Manufacturing,96,8,High Net Worth,12,0,0
+Rodrique,Vernon,0,39,1978-08-06,5864 Mcbride Trail,3174,Australia,VIC,Budget/Accounting Analyst III,Manufacturing,70,8,Affluent Customer,17,0,0
+Brod,Attrey,0,51,1966-11-05,180 Lakewood Park,2194,Australia,NSW,Budget/Accounting Analyst III,,46,8,Mass Customer,14,0,1
+Manny,Mandy,0,40,1977-01-28,6 Union Center,4280,Australia,QLD,Account Representative III,Argiculture,36,7,Mass Customer,16,0,0
+Becky,Lassen,1,44,1973-05-11,41153 Pond Park,2251,Australia,NSW,Sales Associate,Financial Services,11,8,Mass Customer,7,0,1
+Tessa,Heakey,1,46,1971-05-31,6233 Fulton Point,3337,Australia,VIC,Senior Financial Analyst,Financial Services,43,6,Mass Customer,9,0,0
+Herbert,Henryson,0,22,1995-10-10,05123 Bobwhite Plaza,2528,Australia,NSW,Marketing Manager,,21,9,Mass Customer,4,0,0
+Cristie,Bence,1,17,2000-04-17,3413 Schmedeman Court,4122,Australia,QLD,Automation Specialist II,,49,8,High Net Worth,9,0,0
+Renate,Whyte,1,54,1963-12-08,4189 Laurel Center,2620,Australia,NSW,Registered Nurse,Health,60,7,High Net Worth,15,0,1
+Toma,Woolforde,1,25,1992-03-09,76 Melody Avenue,2092,Australia,NSW,Cost Accountant,Financial Services,67,12,Mass Customer,5,0,1
+Dorie,Dunleavy,1,55,1962-05-05,1 Mcguire Lane,3356,Australia,VIC,Registered Nurse,Health,24,4,Affluent Customer,12,0,0
+Ellie,Toope,1,44,1973-08-11,8734 Fulton Hill,2156,Australia,NSW,Staff Accountant III,Property,29,11,High Net Worth,4,0,1
+Leonora,Swetenham,1,50,1967-10-05,660 Hallows Place,2026,Australia,NSW,,IT,66,10,Mass Customer,10,0,1
+Teodor,Mullinder,0,55,1962-08-26,43 Pond Junction,3216,Australia,VIC,Nuclear Power Engineer,Manufacturing,56,5,High Net Worth,11,0,0
+Jared,Fendlow,0,54,1963-08-25,6195 Bellgrove Lane,4211,Australia,QLD,Media Manager II,Financial Services,79,7,Mass Customer,15,0,0
+Porty,Hansed,2,45,,768 Southridge Drive,2112,Australia,NSW,General Manager,IT,88,11,Mass Customer,13,0,0
+Andy,Deeming,0,38,1979-01-09,63386 Talisman Hill,4556,Australia,QLD,Payment Adjustment Coordinator,Manufacturing,79,8,Affluent Customer,7,0,1
+Monty,Thomazin,0,66,1951-09-16,30738 Muir Avenue,3105,Australia,VIC,Quality Engineer,,7,10,Mass Customer,13,0,1
+Briano,Janowski,0,23,1994-07-17,3259 Eagan Parkway,2066,Australia,NSW,Analyst Programmer,,66,8,Mass Customer,7,0,0
+Ginger,,0,78,1939-02-19,160 Fremont Point,2259,Australia,NSW,Human Resources Manager,,94,8,Mass Customer,11,0,0
+Logan,Colomb,0,69,1948-01-01,266 Lakewood Terrace,2761,Australia,NSW,Recruiter,,74,8,Mass Customer,19,0,1
+Nichols,Devinn,0,38,1979-09-29,5280 Waxwing Point,2071,Australia,NSW,Recruiter,,47,12,Affluent Customer,11,0,0
+Catha,Davitt,1,59,1958-04-16,192 South Junction,2567,Australia,NSW,Environmental Specialist,Property,79,7,High Net Worth,6,0,1
+Melosa,McOwan,1,16,2001-04-17,900 Victoria Way,2211,Australia,NSW,Compensation Analyst,Financial Services,25,9,Mass Customer,12,0,0
+Maris,Leete,1,44,1973-04-14,06 Main Alley,4300,Australia,QLD,Engineer IV,Retail,21,4,Mass Customer,7,0,0
+Wilburt,Padden,0,23,1994-09-30,22 Muir Avenue,2148,Australia,NSW,Engineer I,Manufacturing,22,5,Mass Customer,3,0,0
+Rosabelle,Godsmark,1,22,1995-10-19,4871 Caliangt Hill,4102,Australia,QLD,Executive Secretary,,60,8,Mass Customer,3,0,1
+Guilbert,Bearns,0,35,1982-10-29,47776 Packers Street,3226,Australia,VIC,Financial Analyst,Financial Services,42,8,Mass Customer,5,0,1
+Meridith,Urwin,1,20,1997-03-07,535 Graedel Circle,2444,Australia,NSW,Registered Nurse,Health,62,7,High Net Worth,10,0,1
+Leeland,,0,60,1957-01-24,9 Stephen Center,4122,Australia,QLD,VP Quality Control,Telecommunications,66,4,High Net Worth,12,0,0
+Gerta,Porrett,1,58,1959-11-13,074 Badeau Crossing,3250,Australia,VIC,Registered Nurse,Health,46,2,High Net Worth,12,0,0
+Karrah,Howell,1,61,1956-11-07,4897 Melody Road,2566,Australia,NSW,Civil Engineer,Manufacturing,63,9,Mass Customer,17,0,0
+Alick,Baise,0,19,1998-08-16,096 Gateway Road,2747,Australia,NSW,Pharmacist,Health,62,8,Mass Customer,1,0,1
+Casandra,Betteridge,1,75,1942-09-10,68 Bluestem Center,3166,Australia,VIC,Cost Accountant,Financial Services,29,10,Affluent Customer,9,0,1
+Maurine,Clee,1,37,1980-09-13,6 Maple Plaza,2042,Australia,NSW,Automation Specialist II,Property,45,10,High Net Worth,5,0,1
+Darwin,Bumpas,0,39,1978-12-27,6812 Gina Point,3082,Australia,VIC,Junior Executive,Health,24,7,Affluent Customer,18,0,1
+Hayes,Daveren,0,64,1953-03-27,1 Becker Parkway,4350,Australia,QLD,VP Quality Control,Manufacturing,32,2,Affluent Customer,11,0,1
+Piper,Issacov,1,78,1939-11-08,52201 Tony Avenue,2088,Australia,NSW,Human Resources Assistant III,Health,67,9,Affluent Customer,22,0,1
+Markus,Pendrey,0,58,1959-08-01,2382 Anthes Crossing,2153,Australia,NSW,Clinical Specialist,Health,88,10,Affluent Customer,12,0,1
+Sile,Zappel,1,59,1958-03-29,44350 Buell Alley,4018,Australia,QLD,Business Systems Development Analyst,IT,47,6,High Net Worth,15,0,0
+Craggy,Happel,0,38,1979-02-10,23 Del Sol Alley,3064,Australia,VIC,Marketing Manager,Manufacturing,37,6,High Net Worth,8,0,1
+Egor,Mariette,0,37,1980-11-26,79 Mockingbird Plaza,3163,Australia,VIC,Financial Advisor,Financial Services,42,7,Affluent Customer,3,0,0
+Reinald,Bembrigg,0,64,1953-08-21,858 Portage Hill,2770,Australia,NSW,Senior Financial Analyst,Financial Services,54,7,Affluent Customer,10,0,0
+Kissie,Line,1,17,2000-05-20,629 Grasskamp Junction,2200,Australia,NSW,Environmental Tech,Manufacturing,2,9,Affluent Customer,7,0,1
+Quentin,Gerleit,1,27,1990-09-15,88 Aberg Circle,3806,Australia,VIC,Associate Professor,Manufacturing,32,8,Mass Customer,4,0,0
+Karoly,Burgoine,0,70,1947-04-06,18 Morning Circle,3012,Australia,VIC,Account Representative IV,Health,57,2,High Net Worth,21,0,1
+Clarine,Piecha,1,53,1964-12-07,7523 Eggendart Hill,4151,Australia,QLD,Dental Hygienist,Health,99,10,High Net Worth,14,0,0
+Mycah,Beaston,0,56,1961-07-31,2 Mandrake Street,2221,Australia,NSW,Environmental Specialist,,11,11,High Net Worth,12,0,1
+Clemmie,Bartoszewicz,1,59,1958-07-28,727 Morrow Parkway,3197,Australia,VIC,Statistician IV,Financial Services,87,9,Mass Customer,8,0,0
+Randall,Mason,0,43,1974-07-28,83497 Memorial Plaza,2570,Australia,NSW,Product Engineer,Health,95,11,Mass Customer,12,0,1
+Donica,Humby,1,50,1967-06-01,488 Briar Crest Court,2101,Australia,NSW,Senior Cost Accountant,Financial Services,47,12,Mass Customer,4,0,0
+Lotty,Loach,1,56,1961-08-23,78451 South Street,2380,Australia,NSW,Nurse,Health,76,3,High Net Worth,7,0,1
+Marie-jeanne,Breawood,1,64,1953-10-12,6 Prairieview Pass,2770,Australia,NSW,Clinical Specialist,Health,37,6,High Net Worth,8,0,0
+Babara,Sissel,1,43,1974-06-08,5 Ohio Road,3169,Australia,VIC,,IT,50,10,Mass Customer,21,0,1
+Rodolphe,Glenton,0,43,1974-09-28,4787 Golf Terrace,3163,Australia,VIC,Programmer Analyst II,Financial Services,88,7,Affluent Customer,11,0,0
+Thorvald,Duckerin,0,22,1995-10-20,4 Pine View Junction,3021,Australia,VIC,Electrical Engineer,Manufacturing,58,8,Affluent Customer,1,0,1
+Paulina,Iannuzzelli,1,61,1956-03-08,097 Hollow Ridge Alley,2118,Australia,NSW,Automation Specialist I,Manufacturing,57,11,Mass Customer,19,0,0
+Ricki,Padefield,0,69,1948-08-03,860 Barby Lane,4275,Australia,QLD,Automation Specialist III,Manufacturing,43,9,Affluent Customer,13,0,1
+Lizette,McKeaveney,1,23,1994-04-11,6412 Butternut Road,2050,Australia,NSW,Assistant Manager,Health,30,10,High Net Worth,13,0,1
+Muffin,Bhar,0,51,1966-04-07,15 Weeping Birch Crossing,2448,Australia,NSW,,,44,4,Affluent Customer,19,0,0
+Jeno,Strafford,0,76,1941-07-21,891 Sachtjen Hill,4170,Australia,QLD,Tax Accountant,Financial Services,67,9,High Net Worth,7,0,0
+Brigg,Himsworth,0,44,1973-10-10,771 Union Crossing,4570,Australia,QLD,,Telecommunications,63,6,Mass Customer,9,0,1
+Judi,Cazereau,1,20,1997-03-03,22 Farmco Avenue,3851,Australia,VIC,GIS Technical Architect,,22,3,Affluent Customer,13,0,1
+Shara,Bramhill,2,45,,01 Bunker Hill Drive,2230,Australia,NSW,,IT,24,10,Affluent Customer,2,0,0
+Raleigh,Pont,0,53,1964-11-02,7650 Gulseth Parkway,3139,Australia,VIC,Associate Professor,Entertainment,48,7,Mass Customer,14,0,0
+Zachariah,Meininking,0,79,1938-06-09,24815 Lindbergh Avenue,2749,Australia,NSW,Cost Accountant,Financial Services,40,7,Affluent Customer,20,0,1
+Lesley,Garey,0,23,1994-03-29,924 Lindbergh Court,2226,Australia,NSW,Software Consultant,Telecommunications,52,9,Mass Customer,11,0,0
+Adriena,Giffin,1,60,1957-03-17,1 Manitowish Court,2259,Australia,NSW,Analog Circuit Design manager,Argiculture,27,9,Affluent Customer,5,0,1
+Antoinette,,1,37,1980-07-28,9 Derek Alley,3058,Australia,VIC,Structural Analysis Engineer,Financial Services,72,9,Affluent Customer,5,0,0
+Carr,Hopkynson,0,46,1971-10-18,5990 Fairfield Pass,2318,Australia,NSW,,Manufacturing,64,6,Affluent Customer,16,0,0
+Shay,Briand,0,61,1956-10-05,1 Mandrake Way,3844,Australia,VIC,Project Manager,IT,57,1,Mass Customer,9,0,1
+Karney,Burstow,0,45,1972-07-02,4011 Prairieview Court,2031,Australia,NSW,Design Engineer,Property,51,12,Mass Customer,6,0,1
+Latrena,Yetts,1,18,1999-06-18,53877 Dakota Crossing,2871,Australia,NSW,Civil Engineer,Manufacturing,11,3,High Net Worth,15,0,1
+Jesse,Alflat,0,33,1984-09-01,49 Northfield Drive,2145,Australia,NSW,Executive Secretary,,31,9,High Net Worth,5,0,0
+Kelcie,Kingaby,1,17,2000-03-24,0 Summit Center,4019,Australia,QLD,Systems Administrator II,IT,54,4,Mass Customer,6,0,1
+Fabio,Commuzzo,0,56,1961-10-02,66 Shopko Circle,3806,Australia,VIC,Software Test Engineer II,Manufacturing,5,8,Mass Customer,18,0,0
+Heall,Andrioli,0,76,1941-06-17,370 Eastwood Road,4133,Australia,QLD,Environmental Tech,IT,46,5,Affluent Customer,7,0,1
+Rickert,Brasted,0,58,1959-09-18,20 Hoffman Park,2145,Australia,NSW,Staff Scientist,Health,47,9,Mass Customer,10,0,0
+Hedwig,Jayme,1,65,1952-08-21,6293 Hooker Point,2099,Australia,NSW,Accountant IV,Property,38,10,Affluent Customer,11,0,0
+Penrod,Tomasicchio,0,49,1968-05-28,30 Harper Trail,2318,Australia,NSW,,Health,5,9,High Net Worth,19,0,0
+Pancho,Edis,0,47,1970-12-30,64467 Pankratz Pass,3023,Australia,VIC,Assistant Professor,,1,7,Mass Customer,13,0,0
+Andriana,Gosnoll,1,53,1964-05-19,900 Brown Junction,2291,Australia,NSW,Chief Design Engineer,Manufacturing,53,10,Mass Customer,8,0,0
+Nilson,Wiggam,0,21,1996-02-15,8845 Spaight Way,3049,Australia,VIC,Paralegal,Financial Services,48,6,Mass Customer,9,0,0
+Denny,Spleving,1,44,1973-05-13,85420 Myrtle Road,2114,Australia,NSW,Business Systems Development Analyst,Manufacturing,84,8,Affluent Customer,5,0,1
+Roth,Crum,2,45,,276 Anthes Court,2450,Australia,NSW,Legal Assistant,IT,0,6,Mass Customer,2,0,0
+Olia,O' Mullan,1,44,1973-03-24,6315 Mendota Parkway,2263,Australia,NSW,Account Executive,Health,77,7,Mass Customer,8,0,0
+Conway,Juarez,0,50,1967-03-02,66904 American Ash Hill,4814,Australia,QLD,Help Desk Technician,,27,5,Affluent Customer,17,0,0
+Dru,Crellim,1,54,1963-03-04,90 Morningstar Drive,3030,Australia,VIC,,,57,7,Mass Customer,12,0,0
+Shaw,MacEvilly,0,17,2000-05-06,34020 Sheridan Park,2768,Australia,NSW,Software Test Engineer III,Health,10,9,Affluent Customer,16,0,0
+Brook,Eade,1,60,1957-11-17,58 Meadow Valley Court,2330,Australia,NSW,Sales Representative,Retail,65,5,Mass Customer,8,0,1
+Aleece,Feige,1,42,1975-09-16,2030 Anderson Lane,2141,Australia,NSW,,Manufacturing,49,10,Mass Customer,18,0,0
+Dolorita,Strutton,1,26,1991-05-21,07 Acker Pass,3178,Australia,VIC,General Manager,Manufacturing,7,8,Affluent Customer,17,0,0
+Harman,A'field,0,57,1960-12-27,31815 Vermont Drive,4227,Australia,QLD,Geologist III,Manufacturing,39,5,Affluent Customer,6,0,1
+Hildegarde,Bamb,1,56,1961-02-10,5070 Division Parkway,3910,Australia,VIC,Help Desk Operator,,16,9,High Net Worth,10,0,1
+Launce,Gale,0,78,1939-01-15,4 Fordem Avenue,2777,Australia,NSW,,,86,9,Mass Customer,21,0,0
+Ilise,Clissold,1,30,1987-11-16,659 Comanche Plaza,2153,Australia,NSW,Developer IV,Entertainment,58,10,High Net Worth,9,0,0
+Julita,Prene,1,38,1979-05-16,5 Myrtle Junction,4128,Australia,QLD,Chemical Engineer,Manufacturing,14,2,High Net Worth,13,0,1
+Ashlen,Willbond,1,33,1984-05-15,723 Grayhawk Way,3934,Australia,VIC,Software Consultant,Health,64,8,High Net Worth,16,0,0
+Keely,Bointon,1,29,1988-10-16,55 Dorton Point,4154,Australia,QLD,Nurse,Telecommunications,71,9,High Net Worth,3,0,0
+Poul,Gaskin,0,67,1950-06-15,9 Killdeer Circle,2643,Australia,NSW,Help Desk Operator,Telecommunications,78,2,High Net Worth,17,0,0
+Sheilakathryn,Huff,1,59,1958-05-15,04 Miller Drive,2477,Australia,NSW,Assistant Manager,,45,6,High Net Worth,14,0,1
+Rubia,Evetts,1,27,1990-12-21,64213 Miller Point,2071,Australia,NSW,Pharmacist,Health,59,9,Mass Customer,16,0,0
+Francklin,Cross,0,36,1981-04-06,24593 Jackson Parkway,2231,Australia,NSW,Teacher,Property,51,10,Mass Customer,3,0,1
+Wilone,Champley,1,34,1983-11-06,9346 Lyons Point,2077,Australia,NSW,,Manufacturing,22,10,High Net Worth,17,0,0
+Lezlie,Clemits,1,44,1973-05-30,0504 Nevada Drive,2155,Australia,NSW,Senior Cost Accountant,Financial Services,2,10,Mass Customer,15,0,1
+Kathe,Oller,1,58,1959-08-20,817 Loftsgordon Road,3029,Australia,VIC,General Manager,Manufacturing,47,4,Mass Customer,5,0,1
+Dulce,Bradwell,1,60,1957-07-03,30 Lukken Point,4159,Australia,QLD,Research Associate,Manufacturing,61,9,Mass Customer,20,0,0
+Felice,Dechelette,0,19,1998-02-05,4 Kingsford Trail,4051,Australia,QLD,Librarian,Entertainment,75,4,High Net Worth,3,0,0
+Joane,Caldes,1,39,1978-03-17,42 3rd Plaza,2250,Australia,NSW,Senior Cost Accountant,Financial Services,84,7,High Net Worth,13,0,1
+Diane,Furman,1,24,1993-08-11,6660 Riverside Circle,3013,Australia,VIC,,Manufacturing,67,9,Affluent Customer,13,0,1
+Ogdan,Blenkinship,0,66,1951-01-18,21712 Texas Court,3429,Australia,VIC,Occupational Therapist,Health,65,5,Mass Customer,21,0,1
+Kizzee,Agget,1,41,1976-07-25,122 Marcy Park,2213,Australia,NSW,Statistician II,Manufacturing,98,10,Affluent Customer,8,0,0
+Stephi,Highton,1,30,1987-09-09,293 Mendota Park,2154,Australia,NSW,Software Engineer I,Telecommunications,30,10,Mass Customer,12,0,1
+Martino,Scoles,0,42,1975-01-19,47 Scofield Junction,3620,Australia,VIC,Senior Financial Analyst,Financial Services,18,4,Mass Customer,14,0,0
+Morgen,Newport,1,57,1960-08-31,9 Washington Center,3340,Australia,VIC,Project Manager,Manufacturing,5,4,Mass Customer,6,0,0
+Eugenie,Brinson,1,54,1963-08-10,7109 Grayhawk Avenue,3073,Australia,VIC,Assistant Media Planner,Entertainment,79,6,Mass Customer,17,0,1
+Reinold,Natt,0,53,1964-08-23,70 Evergreen Hill,3207,Australia,VIC,Help Desk Technician,Financial Services,16,8,High Net Worth,8,0,1
+Jo,Roberts,1,72,1945-10-31,20139 Lakewood Plaza,2440,Australia,NSW,Paralegal,Financial Services,41,3,High Net Worth,11,0,1
+Jacklin,Duchant,1,77,1940-03-18,9 Memorial Road,4132,Australia,QLD,Legal Assistant,Argiculture,77,4,Mass Customer,17,0,0
+Colas,Gabbitas,0,71,1946-09-09,3094 Elka Place,2166,Australia,NSW,Staff Scientist,Retail,98,9,High Net Worth,20,0,0
+Claudetta,Ricciardiello,1,43,1974-04-30,31 Schurz Parkway,3181,Australia,VIC,Internal Auditor,Financial Services,61,8,Mass Customer,21,0,1
+Angele,Cadore,1,63,1954-09-06,85894 Amoth Court,4125,Australia,QLD,Chief Design Engineer,,5,7,Mass Customer,7,0,1
+Cicily,Hast,1,46,1971-04-26,955 Burning Wood Way,2478,Australia,NSW,Food Chemist,Health,63,3,Affluent Customer,8,0,1
+Harland,Messenger,0,43,1974-05-28,27 Crownhardt Center,3934,Australia,VIC,Software Test Engineer I,Retail,90,10,Mass Customer,8,0,0
+Sim,Constantinou,0,25,1992-08-09,41002 Loomis Park,2010,Australia,NSW,Analog Circuit Design manager,Property,91,9,Mass Customer,5,0,0
+Shanon,Rolfe,1,76,1941-08-19,10 Cottonwood Point,2530,Australia,NSW,Sales Representative,Retail,63,7,High Net Worth,8,0,0
+Chryste,Oddboy,1,29,1988-08-22,2115 Maryland Alley,2320,Australia,NSW,Software Engineer III,Manufacturing,44,9,High Net Worth,4,0,1
+Edin,Patinkin,1,25,1992-03-26,6 Milwaukee Hill,3015,Australia,VIC,Account Executive,Health,35,4,Mass Customer,17,0,0
+Nolly,Ivanchikov,0,23,1994-02-10,6792 Kropf Hill,2049,Australia,NSW,Help Desk Operator,Manufacturing,13,11,High Net Worth,11,0,1
+Michele,Pammenter,0,34,1983-06-26,37 Mesta Road,3198,Australia,VIC,Teacher,Health,23,8,High Net Worth,2,0,0
+Liane,Abelevitz,1,41,1976-11-25,85340 Hovde Way,3153,Australia,VIC,Operator,,26,7,Mass Customer,3,0,0
+Philbert,Bangs,0,51,1966-03-03,02643 Moose Court,4500,Australia,QLD,Environmental Specialist,IT,67,7,Mass Customer,6,0,1
+Candy,,1,40,1977-12-08,59252 Maryland Drive,3500,Australia,VIC,,Financial Services,23,3,Mass Customer,6,0,0
+Noami,Cokly,1,55,1962-09-17,2886 Buena Vista Terrace,2038,Australia,NSW,,Manufacturing,74,11,Mass Customer,15,0,1
+Lyndell,Jereatt,1,23,1994-11-28,58770 Monterey Plaza,2122,Australia,NSW,Payment Adjustment Coordinator,,14,12,High Net Worth,13,0,0
+Maximilien,Bourget,0,48,1969-04-29,2941 Loftsgordon Hill,3337,Australia,VIC,Geologist I,Financial Services,12,7,Mass Customer,6,0,1
+Benedikta,Naptin,1,22,1995-08-13,345 Fieldstone Park,2121,Australia,NSW,Operator,Retail,59,11,Mass Customer,15,0,1
+Rhodie,Gaskall,1,53,1964-02-01,251 Pierstorff Alley,4170,Australia,QLD,VP Quality Control,,83,9,Mass Customer,9,0,1
+Afton,Andrassy,1,19,1998-10-14,220 Cody Alley,3075,Australia,VIC,Web Designer II,Retail,78,8,Mass Customer,7,0,0
+Blondell,Dibdall,1,50,1967-01-03,34 Bunting Pass,3048,Australia,VIC,Programmer III,,62,4,Mass Customer,4,0,0
+Sonia,Dunstall,1,42,1975-07-30,99 Park Meadow Hill,2570,Australia,NSW,Accountant III,Financial Services,0,9,Mass Customer,10,0,0
+Benedikt,Adamou,0,30,1987-01-15,4 Bluestem Pass,3564,Australia,VIC,Recruiting Manager,Health,15,3,Mass Customer,11,0,0
+Don,Spratling,0,48,1969-01-05,078 Erie Point,2760,Australia,NSW,Associate Professor,Property,82,10,Affluent Customer,7,0,1
+Moll,Ogilby,1,37,1980-12-19,6 Hansons Crossing,4123,Australia,QLD,Research Assistant III,Manufacturing,25,6,Mass Customer,13,0,1
+Jammie,Seldner,1,42,1975-02-25,8 Saint Paul Junction,2066,Australia,NSW,Human Resources Manager,Health,42,10,Mass Customer,15,0,1
+Inglis,Pickaver,0,23,1994-06-25,14067 Armistice Plaza,2770,Australia,NSW,Product Engineer,Telecommunications,33,8,Affluent Customer,1,0,0
+Clarabelle,Broschek,1,54,1963-08-25,8491 Pennsylvania Crossing,4035,Australia,QLD,Geological Engineer,Manufacturing,6,6,Mass Customer,18,0,0
+Tillie,Bisseker,1,57,1960-08-10,59208 Barnett Avenue,2104,Australia,NSW,Civil Engineer,Manufacturing,74,12,High Net Worth,14,0,0
+Irving,Babcock,0,31,1986-01-17,36 Killdeer Crossing,2705,Australia,NSW,Dental Hygienist,Health,60,1,High Net Worth,15,0,1
+Evered,Gludor,0,66,1951-04-30,305 Sloan Junction,2168,Australia,NSW,Electrical Engineer,Manufacturing,3,8,High Net Worth,15,0,1
+Mavra,Finan,1,50,1967-08-23,88 Shopko Way,2034,Australia,NSW,Nurse,Property,30,9,Affluent Customer,4,0,1
+Frieda,Tavinor,1,18,1999-03-04,7 Mallory Lane,3064,Australia,VIC,,,43,6,Affluent Customer,10,0,0
+Ellwood,Budden,0,19,1998-06-03,79907 Randy Center,2192,Australia,NSW,,Health,82,10,Mass Customer,11,0,1
+Alex,Patshull,1,51,1966-01-02,446 High Crossing Way,4165,Australia,QLD,Senior Quality Engineer,Retail,37,5,Mass Customer,13,0,1
+Aundrea,Outridge,1,16,2001-01-24,1530 Columbus Lane,3186,Australia,VIC,Structural Engineer,Financial Services,77,12,Affluent Customer,10,0,1
+Amby,Bodega,0,49,1968-06-12,669 Declaration Street,3810,Australia,VIC,Recruiter,,63,6,Affluent Customer,17,0,1
+Esme,Pilipets,0,50,1967-05-06,9 Ruskin Way,3228,Australia,VIC,Environmental Tech,Health,15,9,Mass Customer,5,0,1
+Beverly,Domnick,1,79,1938-12-10,8 Burning Wood Junction,2232,Australia,NSW,Structural Analysis Engineer,IT,56,10,Mass Customer,9,0,0
+Artemis,Swanson,0,40,1977-02-12,5 Melvin Park,3810,Australia,VIC,Web Designer II,Argiculture,77,5,Mass Customer,13,0,1
+Daryle,Marginson,0,31,1986-06-27,21316 Ohio Place,2121,Australia,NSW,Environmental Tech,Argiculture,93,12,Mass Customer,9,0,1
+Tyne,Anshell,1,25,1992-04-08,93 Sutherland Terrace,2560,Australia,NSW,Mechanical Systems Engineer,,71,8,Mass Customer,3,0,1
+Leona,Shorrock,1,66,1951-08-23,1560 Grim Avenue,4720,Australia,QLD,Senior Quality Engineer,Financial Services,83,1,Affluent Customer,22,0,1
+Bertrando,Carass,0,61,1956-06-25,1 Quincy Road,2565,Australia,NSW,Sales Associate,Property,45,5,Mass Customer,8,0,0
+Augusta,Munns,1,66,1951-09-17,607 Memorial Avenue,2074,Australia,NSW,Quality Control Specialist,,5,11,Mass Customer,21,0,0
+Pauline,Dallosso,2,45,,9594 Badeau Street,2050,Australia,NSW,Desktop Support Technician,IT,82,10,Affluent Customer,0,0,1
+Lauralee,Fudge,1,30,1987-09-21,9460 Monument Park,3277,Australia,VIC,Research Nurse,Health,83,4,Mass Customer,15,0,0
+Consalve,Ballay,0,58,1959-09-18,72 Village Terrace,2250,Australia,NSW,Web Developer I,IT,41,8,Mass Customer,7,0,1
+Lolly,Prewer,1,20,1997-10-23,694 Coolidge Center,2620,Australia,NSW,Geologist I,Health,44,7,Mass Customer,15,0,0
+Vyky,Pegg,1,74,1943-03-15,31854 Anniversary Terrace,2322,Australia,NSW,Quality Control Specialist,Manufacturing,64,7,Mass Customer,11,0,1
+Kellen,Pawelski,1,72,1945-07-26,125 Manufacturers Parkway,2193,Australia,NSW,,Manufacturing,83,8,High Net Worth,11,0,1
+Jermaine,Bagshawe,1,63,1954-05-14,260 Briar Crest Drive,4209,Australia,QLD,Help Desk Operator,Property,60,6,Mass Customer,9,0,1
+Bryan,Jachtym,0,43,1974-05-15,56 Moland Crossing,3356,Australia,VIC,Automation Specialist I,Manufacturing,59,3,Mass Customer,15,0,1
+Renie,Laundon,1,44,1973-12-18,1 Shelley Pass,4118,Australia,QLD,Assistant Media Planner,Entertainment,32,3,Mass Customer,8,0,1
+Weidar,Etheridge,0,58,1959-07-13,0535 Jay Point,2422,Australia,NSW,Compensation Analyst,Financial Services,38,4,Mass Customer,6,0,1
+Datha,Fishburn,1,27,1990-07-02,6 Caliangt Way,3079,Australia,VIC,Office Assistant IV,Retail,15,12,Mass Customer,3,0,0
+Ferdinand,Romanetti,0,58,1959-10-07,2 Sloan Way,2200,Australia,NSW,Paralegal,Financial Services,60,7,Affluent Customer,9,0,0
+Burk,Wortley,0,16,2001-10-17,04 Union Crossing,2196,Australia,NSW,Senior Sales Associate,Health,22,10,Mass Customer,6,0,0
+Melloney,Temby,1,63,1954-10-05,33475 Fair Oaks Junction,4702,Australia,QLD,Budget/Accounting Analyst IV,Financial Services,17,2,Affluent Customer,15,0,1
+Dickie,Cubbini,0,65,1952-12-17,57666 Victoria Way,4215,Australia,QLD,Financial Advisor,Financial Services,30,2,Mass Customer,19,0,1
+Sylas,Duffill,0,62,1955-10-02,21875 Grover Drive,2010,Australia,NSW,Staff Accountant IV,Property,56,9,Mass Customer,14,0,1
